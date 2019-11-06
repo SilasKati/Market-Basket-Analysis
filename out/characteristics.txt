@@ -1,0 +1,5 @@
+Total de compras: 10000
+Total de produtos: 17177
+Total de produtos comprados: 105343
+Media de produtos por compra: 10.5343
+Frequencia media de um produto em uma compra: 0.000613279385224428

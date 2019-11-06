@@ -1,0 +1,13 @@
+antecedants,consequents,support,confidence
+"['Organic Strawberries', 'Organic Cucumber']",['Bag of Organic Bananas'],0.0078,0.4743589743589744
+"['Limes', 'Organic Avocado']",['Large Lemon'],0.0096,0.4375
+"['Organic Hass Avocado', 'Organic Lemon']",['Bag of Organic Bananas'],0.0064,0.46875
+['Organic Navel Orange'],['Bag of Organic Bananas'],0.015,0.42000000000000004
+['Gala Apples'],['Banana'],0.0068,0.44117647058823534
+"['Organic Strawberries', 'Organic Large Extra Fancy Fuji Apple']",['Bag of Organic Bananas'],0.0056,0.5357142857142857
+"['Organic Hass Avocado', 'Organic Raspberries']",['Bag of Organic Bananas'],0.0077,0.5714285714285714
+"['Organic Strawberries', 'Organic Zucchini']",['Bag of Organic Bananas'],0.0071,0.4507042253521127
+"['Organic Hass Avocado', 'Organic Cucumber']",['Bag of Organic Bananas'],0.0059,0.5084745762711864
+['Organic Kiwi'],['Bag of Organic Bananas'],0.0139,0.4172661870503597
+"['Organic Strawberries', 'Organic Raspberries']",['Bag of Organic Bananas'],0.0121,0.5041322314049588
+"['Organic Hass Avocado', 'Organic Strawberries']",['Bag of Organic Bananas'],0.0105,0.580952380952381

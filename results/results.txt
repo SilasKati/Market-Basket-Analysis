@@ -1,0 +1,2480 @@
+Bag of Organic Bananas <- ['Organic Strawberries'] 8.75 31.085714285714282
+
+Banana <- ['Organic Baby Spinach', 'Organic Strawberries'] 1.15 25.217391304347824
+
+Bag of Organic Bananas <- ['Organic Baby Spinach', 'Organic Strawberries'] 1.15 33.91304347826087
+
+Banana <- ['Large Lemon', 'Organic Strawberries'] 0.79 25.31645569620253
+
+Bag of Organic Bananas <- ['Large Lemon', 'Organic Strawberries'] 0.79 37.9746835443038
+
+Organic Strawberries <- ['Large Lemon', 'Bag of Organic Bananas'] 0.95 31.57894736842105
+
+Banana <- ['Large Lemon', 'Organic Baby Spinach'] 0.97 27.835051546391753
+
+Banana <- ['Organic Avocado'] 5.59 32.021466905187836
+
+Banana <- ['Organic Avocado', 'Organic Strawberries'] 0.89 32.58426966292135
+
+Bag of Organic Bananas <- ['Organic Avocado', 'Organic Strawberries'] 0.89 25.842696629213485
+
+Organic Strawberries <- ['Organic Avocado', 'Bag of Organic Bananas'] 0.83 27.710843373493976
+
+Banana <- ['Organic Avocado', 'Organic Baby Spinach'] 1.0699999999999998 37.38317757009346
+
+Organic Avocado <- ['Organic Baby Spinach', 'Banana'] 1.58 25.31645569620253
+
+Banana <- ['Organic Avocado', 'Large Lemon'] 1.11 30.630630630630627
+
+Organic Avocado <- ['Large Lemon', 'Organic Strawberries'] 0.79 26.582278481012654
+
+Bag of Organic Bananas <- ['Organic Hass Avocado'] 5.63 34.10301953818828
+
+Bag of Organic Bananas <- ['Organic Hass Avocado', 'Organic Strawberries'] 1.05 58.0952380952381
+
+Organic Strawberries <- ['Organic Hass Avocado', 'Bag of Organic Bananas'] 1.92 31.770833333333332
+
+Bag of Organic Bananas <- ['Organic Hass Avocado', 'Organic Baby Spinach'] 0.89 38.20224719101123
+
+Organic Strawberries <- ['Organic Hass Avocado', 'Organic Baby Spinach', 'Bag of Organic Bananas'] 0.33999999999999997 35.294117647058826
+
+Organic Hass Avocado <- ['Organic Baby Spinach', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.38999999999999996 30.76923076923077
+
+Bag of Organic Bananas <- ['Organic Hass Avocado', 'Large Lemon'] 0.49 38.775510204081634
+
+Organic Hass Avocado <- ['Large Lemon', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.3 40.0
+
+Organic Strawberries <- ['Organic Hass Avocado', 'Large Lemon'] 0.49 28.57142857142857
+
+Banana <- ['Limes', 'Organic Strawberries'] 0.7000000000000001 27.142857142857142
+
+Bag of Organic Bananas <- ['Limes', 'Organic Strawberries'] 0.7000000000000001 31.428571428571427
+
+Organic Strawberries <- ['Limes', 'Bag of Organic Bananas'] 0.75 29.333333333333332
+
+Banana <- ['Limes', 'Organic Baby Spinach'] 0.88 31.818181818181817
+
+Organic Baby Spinach <- ['Limes', 'Banana'] 0.96 29.166666666666668
+
+Bag of Organic Bananas <- ['Limes', 'Organic Baby Spinach'] 0.88 25.0
+
+Organic Baby Spinach <- ['Limes', 'Bag of Organic Bananas'] 0.75 29.333333333333332
+
+Banana <- ['Limes', 'Large Lemon'] 1.3299999999999998 25.563909774436087
+
+Large Lemon <- ['Limes', 'Banana'] 0.96 35.41666666666667
+
+Large Lemon <- ['Limes', 'Bag of Organic Bananas'] 0.75 33.33333333333333
+
+Limes <- ['Large Lemon', 'Bag of Organic Bananas'] 0.95 26.31578947368421
+
+Large Lemon <- ['Limes', 'Organic Strawberries'] 0.7000000000000001 35.714285714285715
+
+Limes <- ['Large Lemon', 'Organic Strawberries'] 0.79 31.645569620253166
+
+Organic Baby Spinach <- ['Limes', 'Large Lemon', 'Banana'] 0.33999999999999997 26.47058823529412
+
+Large Lemon <- ['Limes', 'Organic Baby Spinach'] 0.88 31.818181818181817
+
+Limes <- ['Large Lemon', 'Organic Baby Spinach'] 0.97 28.865979381443296
+
+Large Lemon <- ['Limes'] 4.5 29.555555555555557
+
+Banana <- ['Limes', 'Organic Avocado'] 0.96 33.33333333333333
+
+Organic Avocado <- ['Limes', 'Banana'] 0.96 33.33333333333333
+
+Organic Avocado <- ['Limes', 'Organic Strawberries'] 0.7000000000000001 28.57142857142857
+
+Banana <- ['Limes', 'Organic Avocado', 'Organic Baby Spinach'] 0.3 43.333333333333336
+
+Organic Baby Spinach <- ['Limes', 'Organic Avocado', 'Banana'] 0.32 40.625
+
+Limes <- ['Organic Avocado', 'Organic Baby Spinach', 'Banana'] 0.4 32.5
+
+Organic Baby Spinach <- ['Limes', 'Organic Avocado'] 0.96 31.25
+
+Organic Avocado <- ['Limes', 'Organic Baby Spinach'] 0.88 34.090909090909086
+
+Limes <- ['Organic Avocado', 'Organic Baby Spinach'] 1.0699999999999998 28.037383177570092
+
+Banana <- ['Limes', 'Organic Avocado', 'Large Lemon'] 0.42 26.190476190476193
+
+Large Lemon <- ['Limes', 'Organic Avocado', 'Banana'] 0.32 34.375
+
+Organic Avocado <- ['Limes', 'Large Lemon', 'Banana'] 0.33999999999999997 32.35294117647059
+
+Limes <- ['Organic Avocado', 'Large Lemon', 'Banana'] 0.33999999999999997 32.35294117647059
+
+Large Lemon <- ['Limes', 'Organic Avocado', 'Organic Baby Spinach'] 0.3 33.33333333333333
+
+Large Lemon <- ['Limes', 'Organic Avocado'] 0.96 43.75
+
+Organic Avocado <- ['Limes', 'Large Lemon'] 1.3299999999999998 31.57894736842105
+
+Limes <- ['Organic Avocado', 'Large Lemon'] 1.11 37.83783783783784
+
+Bag of Organic Bananas <- ['Limes', 'Organic Hass Avocado'] 0.59 33.89830508474576
+
+Organic Hass Avocado <- ['Limes', 'Bag of Organic Bananas'] 0.75 26.666666666666668
+
+Organic Baby Spinach <- ['Limes', 'Organic Hass Avocado'] 0.59 28.8135593220339
+
+Limes <- ['Organic Hass Avocado', 'Large Lemon'] 0.49 26.53061224489796
+
+Bag of Organic Bananas <- ['Organic Raspberries'] 4.33 36.027713625866056
+
+Organic Strawberries <- ['Organic Raspberries', 'Banana'] 0.7100000000000001 33.80281690140845
+
+Bag of Organic Bananas <- ['Organic Raspberries', 'Organic Strawberries'] 1.21 50.413223140495866
+
+Organic Strawberries <- ['Organic Raspberries', 'Bag of Organic Bananas'] 1.5599999999999998 39.1025641025641
+
+Organic Strawberries <- ['Organic Raspberries'] 4.33 27.9445727482679
+
+Bag of Organic Bananas <- ['Organic Raspberries', 'Organic Baby Spinach'] 0.69 42.028985507246375
+
+Organic Raspberries <- ['Organic Baby Spinach', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.38999999999999996 30.76923076923077
+
+Organic Strawberries <- ['Organic Raspberries', 'Organic Baby Spinach'] 0.69 36.231884057971016
+
+Banana <- ['Organic Raspberries', 'Large Lemon'] 0.35000000000000003 25.71428571428571
+
+Bag of Organic Bananas <- ['Organic Raspberries', 'Large Lemon'] 0.35000000000000003 34.285714285714285
+
+Organic Strawberries <- ['Organic Raspberries', 'Large Lemon'] 0.35000000000000003 37.142857142857146
+
+Organic Baby Spinach <- ['Organic Raspberries', 'Large Lemon'] 0.35000000000000003 28.57142857142857
+
+Banana <- ['Organic Raspberries', 'Organic Avocado'] 0.38 31.57894736842105
+
+Bag of Organic Bananas <- ['Organic Raspberries', 'Organic Avocado'] 0.38 28.947368421052634
+
+Organic Strawberries <- ['Organic Raspberries', 'Organic Avocado'] 0.38 31.57894736842105
+
+Bag of Organic Bananas <- ['Organic Raspberries', 'Organic Hass Avocado'] 0.77 57.14285714285714
+
+Organic Hass Avocado <- ['Organic Raspberries', 'Bag of Organic Bananas'] 1.5599999999999998 28.205128205128204
+
+Organic Strawberries <- ['Organic Raspberries', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.44 50.0
+
+Organic Hass Avocado <- ['Organic Raspberries', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.61 36.0655737704918
+
+Organic Raspberries <- ['Organic Hass Avocado', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.61 36.0655737704918
+
+Organic Strawberries <- ['Organic Raspberries', 'Organic Hass Avocado'] 0.77 35.064935064935064
+
+Organic Raspberries <- ['Organic Hass Avocado', 'Organic Strawberries'] 1.05 25.71428571428571
+
+Bag of Organic Bananas <- ['Organic Raspberries', 'Limes'] 0.33 45.45454545454545
+
+Organic Strawberries <- ['Organic Raspberries', 'Limes'] 0.33 42.42424242424242
+
+Organic Baby Spinach <- ['Organic Raspberries', 'Limes'] 0.33 36.36363636363637
+
+Organic Hass Avocado <- ['Organic Raspberries', 'Limes'] 0.33 33.33333333333333
+
+Banana <- ['Strawberries'] 4.71 30.997876857749468
+
+Banana <- ['Strawberries', 'Organic Baby Spinach'] 0.48 41.66666666666667
+
+Banana <- ['Strawberries', 'Large Lemon'] 0.4 40.0
+
+Banana <- ['Strawberries', 'Organic Avocado'] 0.41000000000000003 51.21951219512195
+
+Bag of Organic Bananas <- ['Organic Cucumber'] 3.55 28.169014084507044
+
+Bag of Organic Bananas <- ['Organic Cucumber', 'Organic Strawberries'] 0.7799999999999999 47.43589743589743
+
+Organic Strawberries <- ['Organic Cucumber', 'Bag of Organic Bananas'] 1.0 37.0
+
+Organic Baby Spinach <- ['Organic Cucumber', 'Banana'] 0.52 25.0
+
+Bag of Organic Bananas <- ['Organic Cucumber', 'Organic Baby Spinach'] 0.6799999999999999 29.411764705882355
+
+Organic Baby Spinach <- ['Organic Cucumber', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.37 32.432432432432435
+
+Organic Cucumber <- ['Organic Baby Spinach', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.38999999999999996 30.76923076923077
+
+Banana <- ['Organic Cucumber', 'Large Lemon'] 0.53 26.41509433962264
+
+Large Lemon <- ['Organic Cucumber', 'Banana'] 0.52 26.923076923076923
+
+Banana <- ['Organic Cucumber', 'Organic Avocado'] 0.41000000000000003 41.46341463414634
+
+Organic Avocado <- ['Organic Cucumber', 'Banana'] 0.52 32.69230769230769
+
+Organic Baby Spinach <- ['Organic Cucumber', 'Organic Avocado'] 0.41000000000000003 26.82926829268293
+
+Large Lemon <- ['Organic Cucumber', 'Organic Avocado'] 0.41000000000000003 31.70731707317073
+
+Bag of Organic Bananas <- ['Organic Cucumber', 'Organic Hass Avocado'] 0.59 50.847457627118644
+
+Organic Hass Avocado <- ['Organic Cucumber', 'Bag of Organic Bananas'] 1.0 30.0
+
+Organic Strawberries <- ['Organic Cucumber', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 53.333333333333336
+
+Organic Hass Avocado <- ['Organic Cucumber', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.37 43.24324324324324
+
+Organic Cucumber <- ['Organic Hass Avocado', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.61 26.229508196721312
+
+Organic Strawberries <- ['Organic Cucumber', 'Organic Hass Avocado'] 0.59 33.89830508474576
+
+Organic Hass Avocado <- ['Organic Cucumber', 'Organic Strawberries'] 0.7799999999999999 25.64102564102564
+
+Organic Baby Spinach <- ['Organic Cucumber', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Cucumber', 'Limes'] 0.47000000000000003 25.53191489361702
+
+Organic Strawberries <- ['Organic Cucumber', 'Limes'] 0.47000000000000003 29.78723404255319
+
+Large Lemon <- ['Organic Cucumber', 'Limes'] 0.47000000000000003 42.5531914893617
+
+Limes <- ['Organic Cucumber', 'Large Lemon'] 0.53 37.735849056603776
+
+Organic Avocado <- ['Organic Cucumber', 'Limes'] 0.47000000000000003 27.659574468085108
+
+Limes <- ['Organic Cucumber', 'Organic Avocado'] 0.41000000000000003 31.70731707317073
+
+Bag of Organic Bananas <- ['Organic Cucumber', 'Organic Raspberries'] 0.51 49.01960784313725
+
+Organic Raspberries <- ['Organic Cucumber', 'Bag of Organic Bananas'] 1.0 25.0
+
+Organic Raspberries <- ['Organic Cucumber', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.37 32.432432432432435
+
+Organic Strawberries <- ['Organic Cucumber', 'Organic Raspberries'] 0.51 39.21568627450981
+
+Organic Raspberries <- ['Organic Cucumber', 'Organic Strawberries'] 0.7799999999999999 25.64102564102564
+
+Organic Baby Spinach <- ['Organic Cucumber', 'Organic Raspberries'] 0.51 29.411764705882355
+
+Organic Raspberries <- ['Organic Cucumber', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 33.33333333333333
+
+Organic Hass Avocado <- ['Organic Cucumber', 'Organic Raspberries'] 0.51 33.33333333333333
+
+Organic Raspberries <- ['Organic Cucumber', 'Organic Hass Avocado'] 0.59 28.8135593220339
+
+Bag of Organic Bananas <- ['Organic Zucchini', 'Organic Strawberries'] 0.7100000000000001 45.07042253521127
+
+Organic Strawberries <- ['Organic Zucchini', 'Bag of Organic Bananas'] 0.8200000000000001 39.02439024390244
+
+Banana <- ['Organic Zucchini', 'Large Lemon'] 0.5599999999999999 28.57142857142857
+
+Organic Baby Spinach <- ['Organic Zucchini', 'Large Lemon'] 0.5599999999999999 30.357142857142854
+
+Banana <- ['Organic Zucchini', 'Organic Avocado'] 0.38 34.21052631578947
+
+Bag of Organic Bananas <- ['Organic Zucchini', 'Organic Hass Avocado'] 0.52 36.53846153846153
+
+Organic Hass Avocado <- ['Organic Zucchini', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.32 34.375
+
+Organic Strawberries <- ['Organic Zucchini', 'Organic Hass Avocado'] 0.52 30.76923076923077
+
+Banana <- ['Organic Zucchini', 'Limes'] 0.37 29.72972972972973
+
+Organic Strawberries <- ['Organic Zucchini', 'Limes'] 0.37 27.027027027027028
+
+Organic Baby Spinach <- ['Organic Zucchini', 'Limes'] 0.37 37.83783783783784
+
+Large Lemon <- ['Organic Zucchini', 'Limes'] 0.37 43.24324324324324
+
+Limes <- ['Organic Zucchini', 'Large Lemon'] 0.5599999999999999 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Zucchini', 'Organic Raspberries'] 0.33 48.484848484848484
+
+Organic Raspberries <- ['Organic Zucchini', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.32 28.125
+
+Organic Strawberries <- ['Organic Zucchini', 'Organic Raspberries'] 0.33 39.39393939393939
+
+Organic Baby Spinach <- ['Organic Zucchini', 'Organic Raspberries'] 0.33 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Zucchini', 'Organic Cucumber'] 0.33999999999999997 41.17647058823529
+
+Organic Baby Spinach <- ['Organic Zucchini', 'Organic Cucumber'] 0.33999999999999997 29.411764705882355
+
+Organic Hass Avocado <- ['Organic Zucchini', 'Organic Cucumber'] 0.33999999999999997 26.47058823529412
+
+Bag of Organic Bananas <- ['Organic Blueberries'] 3.5999999999999996 25.833333333333336
+
+Organic Strawberries <- ['Organic Blueberries', 'Banana'] 0.7000000000000001 27.142857142857142
+
+Bag of Organic Bananas <- ['Organic Blueberries', 'Organic Strawberries'] 1.0 34.0
+
+Organic Strawberries <- ['Organic Blueberries', 'Bag of Organic Bananas'] 0.9299999999999999 36.55913978494624
+
+Organic Strawberries <- ['Organic Blueberries'] 3.5999999999999996 27.77777777777778
+
+Bag of Organic Bananas <- ['Organic Blueberries', 'Organic Baby Spinach'] 0.58 43.103448275862064
+
+Organic Baby Spinach <- ['Organic Blueberries', 'Bag of Organic Bananas'] 0.9299999999999999 26.881720430107524
+
+Organic Strawberries <- ['Organic Blueberries', 'Organic Baby Spinach'] 0.58 31.03448275862069
+
+Banana <- ['Organic Blueberries', 'Large Lemon'] 0.31 25.806451612903224
+
+Bag of Organic Bananas <- ['Organic Blueberries', 'Large Lemon'] 0.31 25.806451612903224
+
+Organic Strawberries <- ['Organic Blueberries', 'Large Lemon'] 0.31 29.03225806451613
+
+Banana <- ['Organic Blueberries', 'Organic Avocado'] 0.3 43.333333333333336
+
+Organic Strawberries <- ['Organic Blueberries', 'Organic Avocado'] 0.3 40.0
+
+Organic Baby Spinach <- ['Organic Blueberries', 'Organic Avocado'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Blueberries', 'Organic Hass Avocado'] 0.41000000000000003 51.21951219512195
+
+Organic Strawberries <- ['Organic Blueberries', 'Organic Hass Avocado'] 0.41000000000000003 29.268292682926827
+
+Organic Baby Spinach <- ['Organic Blueberries', 'Organic Hass Avocado'] 0.41000000000000003 31.70731707317073
+
+Limes <- ['Organic Blueberries', 'Large Lemon'] 0.31 32.25806451612903
+
+Limes <- ['Organic Blueberries', 'Organic Avocado'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Blueberries', 'Organic Raspberries'] 0.5499999999999999 40.0
+
+Organic Raspberries <- ['Organic Blueberries', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.33999999999999997 29.411764705882355
+
+Organic Strawberries <- ['Organic Blueberries', 'Organic Raspberries'] 0.5499999999999999 36.36363636363637
+
+Organic Raspberries <- ['Organic Blueberries', 'Organic Hass Avocado'] 0.41000000000000003 31.70731707317073
+
+Bag of Organic Bananas <- ['Organic Blueberries', 'Organic Cucumber'] 0.35000000000000003 40.0
+
+Organic Cucumber <- ['Organic Blueberries', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.33999999999999997 26.47058823529412
+
+Organic Strawberries <- ['Organic Blueberries', 'Organic Cucumber'] 0.35000000000000003 37.142857142857146
+
+Organic Hass Avocado <- ['Organic Blueberries', 'Organic Cucumber'] 0.35000000000000003 25.71428571428571
+
+Organic Raspberries <- ['Organic Blueberries', 'Organic Cucumber'] 0.35000000000000003 31.428571428571427
+
+Banana <- ['Organic Whole Milk'] 3.7199999999999998 25.0
+
+Banana <- ['Organic Whole Milk', 'Organic Strawberries'] 0.89 30.337078651685395
+
+Organic Strawberries <- ['Organic Whole Milk', 'Banana'] 0.9299999999999999 29.03225806451613
+
+Bag of Organic Bananas <- ['Organic Whole Milk', 'Organic Strawberries'] 0.89 37.07865168539326
+
+Organic Strawberries <- ['Organic Whole Milk', 'Bag of Organic Bananas'] 0.86 38.372093023255815
+
+Banana <- ['Organic Whole Milk', 'Organic Baby Spinach'] 0.44999999999999996 33.33333333333333
+
+Organic Strawberries <- ['Organic Whole Milk', 'Organic Baby Spinach'] 0.44999999999999996 33.33333333333333
+
+Organic Strawberries <- ['Organic Whole Milk', 'Large Lemon'] 0.38 39.473684210526315
+
+Banana <- ['Organic Whole Milk', 'Organic Avocado'] 0.45999999999999996 50.0
+
+Organic Strawberries <- ['Organic Whole Milk', 'Organic Avocado'] 0.45999999999999996 34.78260869565217
+
+Large Lemon <- ['Organic Whole Milk', 'Organic Avocado'] 0.45999999999999996 32.608695652173914
+
+Organic Avocado <- ['Organic Whole Milk', 'Large Lemon'] 0.38 39.473684210526315
+
+Banana <- ['Organic Whole Milk', 'Limes'] 0.3 33.33333333333333
+
+Organic Strawberries <- ['Organic Whole Milk', 'Limes'] 0.3 33.33333333333333
+
+Organic Baby Spinach <- ['Organic Whole Milk', 'Limes'] 0.3 26.666666666666668
+
+Large Lemon <- ['Organic Whole Milk', 'Limes'] 0.3 40.0
+
+Limes <- ['Organic Whole Milk', 'Large Lemon'] 0.38 31.57894736842105
+
+Organic Avocado <- ['Organic Whole Milk', 'Limes'] 0.3 36.666666666666664
+
+Banana <- ['Organic Whole Milk', 'Organic Cucumber'] 0.37 29.72972972972973
+
+Bag of Organic Bananas <- ['Organic Whole Milk', 'Organic Cucumber'] 0.37 32.432432432432435
+
+Organic Strawberries <- ['Organic Whole Milk', 'Organic Cucumber'] 0.37 35.13513513513514
+
+Banana <- ['Organic Whole Milk', 'Organic Zucchini'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Whole Milk', 'Organic Zucchini'] 0.3 36.666666666666664
+
+Organic Strawberries <- ['Organic Whole Milk', 'Organic Zucchini'] 0.3 30.0
+
+Banana <- ['Organic Garlic', 'Organic Strawberries'] 0.38999999999999996 25.64102564102564
+
+Bag of Organic Bananas <- ['Organic Garlic', 'Organic Strawberries'] 0.38999999999999996 33.33333333333333
+
+Banana <- ['Organic Garlic', 'Large Lemon'] 0.53 39.62264150943396
+
+Large Lemon <- ['Organic Garlic', 'Banana'] 0.5700000000000001 36.84210526315789
+
+Large Lemon <- ['Organic Garlic', 'Organic Strawberries'] 0.38999999999999996 28.205128205128204
+
+Banana <- ['Organic Garlic', 'Organic Avocado'] 0.38 50.0
+
+Organic Avocado <- ['Organic Garlic', 'Banana'] 0.5700000000000001 33.33333333333333
+
+Large Lemon <- ['Organic Garlic', 'Organic Avocado'] 0.38 44.73684210526316
+
+Organic Avocado <- ['Organic Garlic', 'Large Lemon'] 0.53 32.075471698113205
+
+Bag of Organic Bananas <- ['Organic Garlic', 'Organic Hass Avocado'] 0.5599999999999999 41.07142857142857
+
+Organic Hass Avocado <- ['Organic Garlic', 'Bag of Organic Bananas'] 0.64 35.9375
+
+Organic Strawberries <- ['Organic Garlic', 'Organic Hass Avocado'] 0.5599999999999999 25.0
+
+Organic Hass Avocado <- ['Organic Garlic', 'Organic Strawberries'] 0.38999999999999996 35.8974358974359
+
+Banana <- ['Organic Garlic', 'Limes'] 0.6 30.0
+
+Limes <- ['Organic Garlic', 'Banana'] 0.5700000000000001 31.57894736842105
+
+Organic Baby Spinach <- ['Organic Garlic', 'Limes'] 0.6 26.666666666666668
+
+Limes <- ['Organic Garlic', 'Organic Baby Spinach'] 0.5700000000000001 28.07017543859649
+
+Large Lemon <- ['Organic Garlic', 'Limes'] 0.6 26.666666666666668
+
+Limes <- ['Organic Garlic', 'Large Lemon'] 0.53 30.18867924528302
+
+Organic Garlic <- ['Limes', 'Organic Avocado', 'Banana'] 0.32 34.375
+
+Organic Avocado <- ['Organic Garlic', 'Limes'] 0.6 28.333333333333332
+
+Limes <- ['Organic Garlic', 'Organic Avocado'] 0.38 44.73684210526316
+
+Bag of Organic Bananas <- ['Organic Garlic', 'Organic Zucchini'] 0.36 27.77777777777778
+
+Banana <- ['Organic Garlic', 'Organic Whole Milk'] 0.31 29.03225806451613
+
+Bag of Organic Bananas <- ['Organic Garlic', 'Organic Whole Milk'] 0.31 29.03225806451613
+
+Organic Avocado <- ['Organic Garlic', 'Organic Whole Milk'] 0.31 25.806451612903224
+
+Limes <- ['Organic Garlic', 'Organic Whole Milk'] 0.31 25.806451612903224
+
+Organic Garlic <- ['Organic Whole Milk', 'Limes'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Red Onion', 'Organic Strawberries'] 0.47000000000000003 38.297872340425535
+
+Organic Strawberries <- ['Organic Red Onion', 'Bag of Organic Bananas'] 0.59 30.508474576271187
+
+Banana <- ['Organic Red Onion', 'Large Lemon'] 0.7000000000000001 30.0
+
+Large Lemon <- ['Organic Red Onion', 'Banana'] 0.59 35.59322033898305
+
+Large Lemon <- ['Organic Red Onion', 'Organic Baby Spinach'] 0.5700000000000001 29.82456140350877
+
+Organic Avocado <- ['Organic Red Onion', 'Banana'] 0.59 25.423728813559322
+
+Organic Baby Spinach <- ['Organic Red Onion', 'Organic Avocado'] 0.62 25.806451612903224
+
+Organic Avocado <- ['Organic Red Onion', 'Organic Baby Spinach'] 0.5700000000000001 28.07017543859649
+
+Large Lemon <- ['Organic Red Onion', 'Organic Avocado'] 0.62 32.25806451612903
+
+Organic Avocado <- ['Organic Red Onion', 'Large Lemon'] 0.7000000000000001 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Red Onion', 'Organic Hass Avocado'] 0.38999999999999996 25.64102564102564
+
+Organic Baby Spinach <- ['Organic Red Onion', 'Limes'] 0.5599999999999999 28.57142857142857
+
+Limes <- ['Organic Red Onion', 'Organic Baby Spinach'] 0.5700000000000001 28.07017543859649
+
+Large Lemon <- ['Organic Red Onion', 'Limes'] 0.5599999999999999 44.642857142857146
+
+Limes <- ['Organic Red Onion', 'Large Lemon'] 0.7000000000000001 35.714285714285715
+
+Organic Red Onion <- ['Limes', 'Organic Avocado', 'Organic Baby Spinach'] 0.3 30.0
+
+Organic Red Onion <- ['Limes', 'Organic Avocado', 'Large Lemon'] 0.42 26.190476190476193
+
+Organic Avocado <- ['Organic Red Onion', 'Limes'] 0.5599999999999999 42.857142857142854
+
+Limes <- ['Organic Red Onion', 'Organic Avocado'] 0.62 38.70967741935484
+
+Organic Red Onion <- ['Limes', 'Organic Avocado'] 0.96 25.0
+
+Organic Raspberries <- ['Organic Red Onion', 'Organic Strawberries'] 0.47000000000000003 25.53191489361702
+
+Bag of Organic Bananas <- ['Organic Red Onion', 'Organic Cucumber'] 0.38 26.31578947368421
+
+Large Lemon <- ['Organic Red Onion', 'Organic Cucumber'] 0.38 34.21052631578947
+
+Limes <- ['Organic Red Onion', 'Organic Cucumber'] 0.38 28.947368421052634
+
+Organic Baby Spinach <- ['Organic Red Onion', 'Organic Zucchini'] 0.3 30.0
+
+Large Lemon <- ['Organic Red Onion', 'Organic Zucchini'] 0.3 36.666666666666664
+
+Organic Avocado <- ['Organic Red Onion', 'Organic Zucchini'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Grape Tomatoes', 'Organic Strawberries'] 0.6 30.0
+
+Banana <- ['Organic Grape Tomatoes', 'Organic Baby Spinach'] 0.75 26.666666666666668
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Banana'] 0.7000000000000001 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Grape Tomatoes', 'Organic Baby Spinach'] 0.75 29.333333333333332
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Bag of Organic Bananas'] 0.73 30.136986301369863
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Organic Strawberries'] 0.6 30.0
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Large Lemon'] 0.5700000000000001 31.57894736842105
+
+Banana <- ['Organic Grape Tomatoes', 'Organic Avocado'] 0.5700000000000001 28.07017543859649
+
+Organic Strawberries <- ['Organic Grape Tomatoes', 'Organic Avocado'] 0.5700000000000001 26.31578947368421
+
+Organic Avocado <- ['Organic Grape Tomatoes', 'Organic Strawberries'] 0.6 25.0
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Organic Avocado'] 0.5700000000000001 31.57894736842105
+
+Bag of Organic Bananas <- ['Organic Grape Tomatoes', 'Organic Hass Avocado'] 0.38999999999999996 43.58974358974359
+
+Organic Strawberries <- ['Organic Grape Tomatoes', 'Organic Hass Avocado'] 0.38999999999999996 28.205128205128204
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Organic Hass Avocado'] 0.38999999999999996 30.76923076923077
+
+Banana <- ['Organic Grape Tomatoes', 'Limes'] 0.31 29.03225806451613
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Limes'] 0.31 32.25806451612903
+
+Large Lemon <- ['Organic Grape Tomatoes', 'Limes'] 0.31 45.16129032258064
+
+Organic Avocado <- ['Organic Grape Tomatoes', 'Limes'] 0.31 35.483870967741936
+
+Bag of Organic Bananas <- ['Organic Grape Tomatoes', 'Organic Raspberries'] 0.42 33.33333333333333
+
+Organic Strawberries <- ['Organic Grape Tomatoes', 'Organic Raspberries'] 0.42 38.095238095238095
+
+Organic Raspberries <- ['Organic Grape Tomatoes', 'Organic Strawberries'] 0.6 26.666666666666668
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Organic Raspberries'] 0.42 30.952380952380953
+
+Bag of Organic Bananas <- ['Organic Grape Tomatoes', 'Organic Cucumber'] 0.44999999999999996 46.666666666666664
+
+Organic Cucumber <- ['Organic Grape Tomatoes', 'Bag of Organic Bananas'] 0.73 28.767123287671232
+
+Organic Strawberries <- ['Organic Grape Tomatoes', 'Organic Cucumber'] 0.44999999999999996 28.888888888888886
+
+Organic Raspberries <- ['Organic Grape Tomatoes', 'Organic Cucumber'] 0.44999999999999996 28.888888888888886
+
+Organic Cucumber <- ['Organic Grape Tomatoes', 'Organic Raspberries'] 0.42 30.952380952380953
+
+Organic Grape Tomatoes <- ['Organic Cucumber', 'Organic Raspberries'] 0.51 25.49019607843137
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Organic Zucchini'] 0.3 46.666666666666664
+
+Large Lemon <- ['Organic Grape Tomatoes', 'Organic Zucchini'] 0.3 40.0
+
+Organic Grape Tomatoes <- ['Organic Blueberries', 'Organic Cucumber'] 0.35000000000000003 25.71428571428571
+
+Organic Baby Spinach <- ['Organic Grape Tomatoes', 'Organic Red Onion'] 0.44999999999999996 28.888888888888886
+
+Large Lemon <- ['Organic Grape Tomatoes', 'Organic Red Onion'] 0.44999999999999996 40.0
+
+Organic Red Onion <- ['Organic Grape Tomatoes', 'Large Lemon'] 0.5700000000000001 31.57894736842105
+
+Organic Grape Tomatoes <- ['Organic Red Onion', 'Large Lemon'] 0.7000000000000001 25.71428571428571
+
+Organic Avocado <- ['Organic Grape Tomatoes', 'Organic Red Onion'] 0.44999999999999996 26.666666666666668
+
+Organic Red Onion <- ['Organic Grape Tomatoes', 'Organic Raspberries'] 0.42 26.190476190476193
+
+Bag of Organic Bananas <- ['Organic Yellow Onion', 'Organic Strawberries'] 0.44999999999999996 26.666666666666668
+
+Banana <- ['Organic Yellow Onion', 'Large Lemon'] 0.42 30.952380952380953
+
+Large Lemon <- ['Organic Yellow Onion', 'Banana'] 0.5 26.0
+
+Banana <- ['Organic Yellow Onion', 'Organic Avocado'] 0.36 33.33333333333333
+
+Organic Baby Spinach <- ['Organic Yellow Onion', 'Organic Avocado'] 0.36 25.0
+
+Large Lemon <- ['Organic Yellow Onion', 'Organic Avocado'] 0.36 33.33333333333333
+
+Organic Avocado <- ['Organic Yellow Onion', 'Large Lemon'] 0.42 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Yellow Onion', 'Organic Hass Avocado'] 0.54 40.74074074074074
+
+Organic Hass Avocado <- ['Organic Yellow Onion', 'Bag of Organic Bananas'] 0.66 33.33333333333333
+
+Organic Strawberries <- ['Organic Yellow Onion', 'Organic Hass Avocado'] 0.54 29.629629629629626
+
+Organic Hass Avocado <- ['Organic Yellow Onion', 'Organic Strawberries'] 0.44999999999999996 35.55555555555556
+
+Organic Baby Spinach <- ['Organic Yellow Onion', 'Limes'] 0.44999999999999996 28.888888888888886
+
+Large Lemon <- ['Organic Yellow Onion', 'Limes'] 0.44999999999999996 28.888888888888886
+
+Limes <- ['Organic Yellow Onion', 'Large Lemon'] 0.42 30.952380952380953
+
+Organic Avocado <- ['Organic Yellow Onion', 'Limes'] 0.44999999999999996 28.888888888888886
+
+Limes <- ['Organic Yellow Onion', 'Organic Avocado'] 0.36 36.11111111111111
+
+Bag of Organic Bananas <- ['Organic Yellow Onion', 'Organic Cucumber'] 0.3 26.666666666666668
+
+Organic Garlic <- ['Organic Yellow Onion', 'Large Lemon'] 0.42 28.57142857142857
+
+Organic Hass Avocado <- ['Organic Yellow Onion', 'Organic Garlic'] 0.59 30.508474576271187
+
+Organic Garlic <- ['Organic Yellow Onion', 'Organic Hass Avocado'] 0.54 33.33333333333333
+
+Organic Yellow Onion <- ['Organic Garlic', 'Organic Hass Avocado'] 0.5599999999999999 32.142857142857146
+
+Limes <- ['Organic Yellow Onion', 'Organic Garlic'] 0.59 28.8135593220339
+
+Organic Garlic <- ['Organic Yellow Onion', 'Limes'] 0.44999999999999996 37.77777777777778
+
+Organic Yellow Onion <- ['Organic Garlic', 'Limes'] 0.6 28.333333333333332
+
+Large Lemon <- ['Organic Yellow Onion', 'Organic Red Onion'] 0.33999999999999997 29.411764705882355
+
+Limes <- ['Organic Yellow Onion', 'Organic Red Onion'] 0.33999999999999997 29.411764705882355
+
+Organic Garlic <- ['Organic Yellow Onion', 'Organic Red Onion'] 0.33999999999999997 26.47058823529412
+
+Bag of Organic Bananas <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 25.71428571428571
+
+Organic Strawberries <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 28.57142857142857
+
+Organic Baby Spinach <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 25.71428571428571
+
+Large Lemon <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 25.71428571428571
+
+Organic Avocado <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 25.71428571428571
+
+Organic Grape Tomatoes <- ['Organic Yellow Onion', 'Organic Avocado'] 0.36 25.0
+
+Organic Hass Avocado <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 28.57142857142857
+
+Organic Yellow Onion <- ['Organic Grape Tomatoes', 'Organic Hass Avocado'] 0.38999999999999996 25.64102564102564
+
+Organic Red Onion <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 34.285714285714285
+
+Organic Grape Tomatoes <- ['Organic Yellow Onion', 'Organic Red Onion'] 0.33999999999999997 35.294117647058826
+
+Organic Yellow Onion <- ['Organic Grape Tomatoes', 'Organic Red Onion'] 0.44999999999999996 26.666666666666668
+
+Banana <- ['Seedless Red Grapes'] 3.0700000000000003 28.990228013029316
+
+Banana <- ['Seedless Red Grapes', 'Organic Strawberries'] 0.5700000000000001 33.33333333333333
+
+Bag of Organic Bananas <- ['Seedless Red Grapes', 'Organic Strawberries'] 0.5700000000000001 29.82456140350877
+
+Organic Strawberries <- ['Seedless Red Grapes', 'Bag of Organic Bananas'] 0.5499999999999999 30.909090909090907
+
+Banana <- ['Seedless Red Grapes', 'Organic Baby Spinach'] 0.33999999999999997 50.0
+
+Banana <- ['Seedless Red Grapes', 'Large Lemon'] 0.48 39.58333333333333
+
+Large Lemon <- ['Seedless Red Grapes', 'Organic Baby Spinach'] 0.33999999999999997 32.35294117647059
+
+Banana <- ['Seedless Red Grapes', 'Organic Avocado'] 0.44999999999999996 37.77777777777778
+
+Organic Strawberries <- ['Seedless Red Grapes', 'Organic Avocado'] 0.44999999999999996 28.888888888888886
+
+Organic Baby Spinach <- ['Seedless Red Grapes', 'Organic Avocado'] 0.44999999999999996 28.888888888888886
+
+Organic Avocado <- ['Seedless Red Grapes', 'Organic Baby Spinach'] 0.33999999999999997 38.23529411764706
+
+Large Lemon <- ['Seedless Red Grapes', 'Organic Avocado'] 0.44999999999999996 33.33333333333333
+
+Organic Avocado <- ['Seedless Red Grapes', 'Large Lemon'] 0.48 31.25
+
+Organic Hass Avocado <- ['Seedless Red Grapes', 'Bag of Organic Bananas'] 0.5499999999999999 27.27272727272727
+
+Limes <- ['Seedless Red Grapes', 'Large Lemon'] 0.48 29.166666666666668
+
+Banana <- ['Seedless Red Grapes', 'Strawberries'] 0.36 36.11111111111111
+
+Bag of Organic Bananas <- ['Seedless Red Grapes', 'Strawberries'] 0.36 25.0
+
+Banana <- ['Asparagus', 'Organic Strawberries'] 0.47000000000000003 27.659574468085108
+
+Bag of Organic Bananas <- ['Asparagus', 'Organic Strawberries'] 0.47000000000000003 31.914893617021278
+
+Banana <- ['Asparagus', 'Organic Baby Spinach'] 0.51 25.49019607843137
+
+Bag of Organic Bananas <- ['Asparagus', 'Organic Baby Spinach'] 0.51 27.450980392156865
+
+Banana <- ['Asparagus', 'Organic Avocado'] 0.44 40.909090909090914
+
+Organic Avocado <- ['Asparagus', 'Banana'] 0.65 27.692307692307693
+
+Organic Strawberries <- ['Asparagus', 'Organic Avocado'] 0.44 29.545454545454547
+
+Organic Avocado <- ['Asparagus', 'Organic Strawberries'] 0.47000000000000003 27.659574468085108
+
+Large Lemon <- ['Asparagus', 'Organic Avocado'] 0.44 27.27272727272727
+
+Large Lemon <- ['Asparagus', 'Limes'] 0.37 48.64864864864865
+
+Limes <- ['Asparagus', 'Large Lemon'] 0.54 33.33333333333333
+
+Organic Raspberries <- ['Asparagus', 'Organic Strawberries'] 0.47000000000000003 25.53191489361702
+
+Bag of Organic Bananas <- ['Asparagus', 'Organic Cucumber'] 0.38 31.57894736842105
+
+Organic Strawberries <- ['Asparagus', 'Organic Cucumber'] 0.38 28.947368421052634
+
+Organic Baby Spinach <- ['Asparagus', 'Organic Cucumber'] 0.38 26.31578947368421
+
+Large Lemon <- ['Asparagus', 'Organic Cucumber'] 0.38 34.21052631578947
+
+Limes <- ['Asparagus', 'Organic Cucumber'] 0.38 26.31578947368421
+
+Organic Cucumber <- ['Asparagus', 'Limes'] 0.37 27.027027027027028
+
+Banana <- ['Asparagus', 'Organic Zucchini'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Asparagus', 'Organic Zucchini'] 0.35000000000000003 28.57142857142857
+
+Organic Strawberries <- ['Asparagus', 'Organic Zucchini'] 0.35000000000000003 25.71428571428571
+
+Organic Baby Spinach <- ['Asparagus', 'Organic Zucchini'] 0.35000000000000003 28.57142857142857
+
+Large Lemon <- ['Asparagus', 'Organic Zucchini'] 0.35000000000000003 31.428571428571427
+
+Banana <- ['Organic Cilantro', 'Organic Strawberries'] 0.41000000000000003 26.82926829268293
+
+Bag of Organic Bananas <- ['Organic Cilantro', 'Organic Strawberries'] 0.41000000000000003 26.82926829268293
+
+Organic Strawberries <- ['Organic Cilantro', 'Bag of Organic Bananas'] 0.4 27.500000000000004
+
+Banana <- ['Organic Cilantro', 'Organic Baby Spinach'] 0.42 33.33333333333333
+
+Organic Baby Spinach <- ['Organic Cilantro', 'Banana'] 0.47000000000000003 29.78723404255319
+
+Banana <- ['Organic Cilantro', 'Large Lemon'] 0.41000000000000003 29.268292682926827
+
+Large Lemon <- ['Organic Cilantro', 'Banana'] 0.47000000000000003 25.53191489361702
+
+Banana <- ['Organic Cilantro', 'Organic Avocado'] 0.38999999999999996 25.64102564102564
+
+Organic Baby Spinach <- ['Organic Cilantro', 'Organic Avocado'] 0.38999999999999996 25.64102564102564
+
+Large Lemon <- ['Organic Cilantro', 'Organic Avocado'] 0.38999999999999996 30.76923076923077
+
+Organic Avocado <- ['Organic Cilantro', 'Large Lemon'] 0.41000000000000003 29.268292682926827
+
+Bag of Organic Bananas <- ['Organic Cilantro', 'Organic Hass Avocado'] 0.47000000000000003 27.659574468085108
+
+Organic Hass Avocado <- ['Organic Cilantro', 'Bag of Organic Bananas'] 0.4 32.5
+
+Organic Hass Avocado <- ['Organic Cilantro', 'Organic Strawberries'] 0.41000000000000003 26.82926829268293
+
+Limes <- ['Organic Cilantro', 'Banana'] 0.47000000000000003 29.78723404255319
+
+Limes <- ['Organic Cilantro', 'Bag of Organic Bananas'] 0.4 30.0
+
+Limes <- ['Organic Cilantro', 'Organic Strawberries'] 0.41000000000000003 31.70731707317073
+
+Organic Baby Spinach <- ['Organic Cilantro', 'Limes'] 0.7100000000000001 25.352112676056336
+
+Limes <- ['Organic Cilantro', 'Organic Baby Spinach'] 0.42 42.857142857142854
+
+Large Lemon <- ['Organic Cilantro', 'Limes'] 0.7100000000000001 25.352112676056336
+
+Limes <- ['Organic Cilantro', 'Large Lemon'] 0.41000000000000003 43.90243902439025
+
+Limes <- ['Organic Cilantro', 'Organic Avocado'] 0.38999999999999996 41.02564102564102
+
+Limes <- ['Organic Cilantro', 'Organic Hass Avocado'] 0.47000000000000003 34.04255319148936
+
+Organic Cilantro <- ['Limes', 'Organic Hass Avocado'] 0.59 27.11864406779661
+
+Limes <- ['Organic Cilantro'] 2.62 27.099236641221374
+
+Organic Cilantro <- ['Organic Raspberries', 'Limes'] 0.33 30.303030303030305
+
+Large Lemon <- ['Organic Cilantro', 'Organic Cucumber'] 0.35000000000000003 28.57142857142857
+
+Limes <- ['Organic Cilantro', 'Organic Cucumber'] 0.35000000000000003 34.285714285714285
+
+Organic Cilantro <- ['Organic Cucumber', 'Limes'] 0.47000000000000003 25.53191489361702
+
+Banana <- ['Organic Cilantro', 'Organic Garlic'] 0.41000000000000003 31.70731707317073
+
+Organic Garlic <- ['Organic Cilantro', 'Banana'] 0.47000000000000003 27.659574468085108
+
+Large Lemon <- ['Organic Cilantro', 'Organic Garlic'] 0.41000000000000003 26.82926829268293
+
+Organic Garlic <- ['Organic Cilantro', 'Large Lemon'] 0.41000000000000003 26.82926829268293
+
+Limes <- ['Organic Cilantro', 'Organic Garlic'] 0.41000000000000003 39.02439024390244
+
+Organic Cilantro <- ['Organic Garlic', 'Limes'] 0.6 26.666666666666668
+
+Large Lemon <- ['Organic Cilantro', 'Organic Red Onion'] 0.44 25.0
+
+Organic Red Onion <- ['Organic Cilantro', 'Large Lemon'] 0.41000000000000003 26.82926829268293
+
+Limes <- ['Organic Cilantro', 'Organic Red Onion'] 0.44 36.36363636363637
+
+Organic Cilantro <- ['Organic Red Onion', 'Limes'] 0.5599999999999999 28.57142857142857
+
+Organic Red Onion <- ['Organic Cilantro', 'Organic Cucumber'] 0.35000000000000003 28.57142857142857
+
+Organic Cilantro <- ['Organic Red Onion', 'Organic Cucumber'] 0.38 26.31578947368421
+
+Organic Garlic <- ['Organic Cilantro', 'Organic Red Onion'] 0.44 25.0
+
+Organic Red Onion <- ['Organic Cilantro', 'Organic Garlic'] 0.41000000000000003 26.82926829268293
+
+Organic Cilantro <- ['Organic Red Onion', 'Organic Garlic'] 0.42 26.190476190476193
+
+Organic Cilantro <- ['Organic Grape Tomatoes', 'Limes'] 0.31 29.03225806451613
+
+Organic Baby Spinach <- ['Organic Cilantro', 'Organic Yellow Onion'] 0.37 27.027027027027028
+
+Large Lemon <- ['Organic Cilantro', 'Organic Yellow Onion'] 0.37 27.027027027027028
+
+Limes <- ['Organic Cilantro', 'Organic Yellow Onion'] 0.37 35.13513513513514
+
+Organic Cilantro <- ['Organic Yellow Onion', 'Limes'] 0.44999999999999996 28.888888888888886
+
+Organic Garlic <- ['Organic Cilantro', 'Organic Yellow Onion'] 0.37 29.72972972972973
+
+Organic Yellow Onion <- ['Organic Cilantro', 'Organic Garlic'] 0.41000000000000003 26.82926829268293
+
+Organic Red Onion <- ['Organic Cilantro', 'Organic Yellow Onion'] 0.37 35.13513513513514
+
+Organic Yellow Onion <- ['Organic Cilantro', 'Organic Red Onion'] 0.44 29.545454545454547
+
+Organic Cilantro <- ['Organic Yellow Onion', 'Organic Red Onion'] 0.33999999999999997 38.23529411764706
+
+Organic Cilantro <- ['Organic Yellow Onion', 'Organic Grape Tomatoes'] 0.35000000000000003 25.71428571428571
+
+Bag of Organic Bananas <- ['Organic Lemon'] 2.85 31.57894736842105
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Strawberries'] 0.44999999999999996 53.333333333333336
+
+Organic Strawberries <- ['Organic Lemon', 'Bag of Organic Bananas'] 0.8999999999999999 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Baby Spinach'] 0.52 42.30769230769231
+
+Organic Strawberries <- ['Organic Lemon', 'Organic Baby Spinach'] 0.52 25.0
+
+Organic Baby Spinach <- ['Organic Lemon', 'Organic Strawberries'] 0.44999999999999996 28.888888888888886
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Hass Avocado'] 0.64 46.875
+
+Organic Hass Avocado <- ['Organic Lemon', 'Bag of Organic Bananas'] 0.8999999999999999 33.33333333333333
+
+Organic Strawberries <- ['Organic Lemon', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 33.33333333333333
+
+Organic Strawberries <- ['Organic Lemon', 'Organic Hass Avocado'] 0.64 26.5625
+
+Organic Hass Avocado <- ['Organic Lemon', 'Organic Strawberries'] 0.44999999999999996 37.77777777777778
+
+Organic Baby Spinach <- ['Organic Lemon', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 33.33333333333333
+
+Organic Lemon <- ['Organic Hass Avocado', 'Organic Baby Spinach', 'Bag of Organic Bananas'] 0.33999999999999997 29.411764705882355
+
+Organic Baby Spinach <- ['Organic Lemon', 'Organic Hass Avocado'] 0.64 25.0
+
+Organic Hass Avocado <- ['Organic Lemon', 'Organic Baby Spinach'] 0.52 30.76923076923077
+
+Organic Baby Spinach <- ['Organic Lemon', 'Limes'] 0.35000000000000003 31.428571428571427
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Raspberries'] 0.33 57.57575757575758
+
+Organic Strawberries <- ['Organic Lemon', 'Organic Raspberries'] 0.33 33.33333333333333
+
+Organic Raspberries <- ['Organic Lemon', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 26.666666666666668
+
+Organic Hass Avocado <- ['Organic Lemon', 'Organic Raspberries'] 0.33 33.33333333333333
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Cucumber'] 0.44 36.36363636363637
+
+Organic Cucumber <- ['Organic Lemon', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 30.0
+
+Organic Lemon <- ['Organic Cucumber', 'Organic Hass Avocado', 'Bag of Organic Bananas'] 0.3 30.0
+
+Organic Hass Avocado <- ['Organic Lemon', 'Organic Cucumber'] 0.44 29.545454545454547
+
+Organic Raspberries <- ['Organic Lemon', 'Organic Cucumber'] 0.44 29.545454545454547
+
+Organic Cucumber <- ['Organic Lemon', 'Organic Raspberries'] 0.33 39.39393939393939
+
+Organic Lemon <- ['Organic Cucumber', 'Organic Raspberries'] 0.51 25.49019607843137
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Zucchini'] 0.33999999999999997 41.17647058823529
+
+Organic Strawberries <- ['Organic Lemon', 'Organic Zucchini'] 0.33999999999999997 29.411764705882355
+
+Organic Baby Spinach <- ['Organic Lemon', 'Organic Zucchini'] 0.33999999999999997 29.411764705882355
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Garlic'] 0.32 25.0
+
+Organic Baby Spinach <- ['Organic Lemon', 'Organic Garlic'] 0.32 25.0
+
+Organic Hass Avocado <- ['Organic Lemon', 'Organic Garlic'] 0.32 31.25
+
+Organic Red Onion <- ['Organic Lemon', 'Organic Garlic'] 0.32 25.0
+
+Bag of Organic Bananas <- ['Organic Lemon', 'Organic Yellow Onion'] 0.32 31.25
+
+Organic Baby Spinach <- ['Organic Lemon', 'Organic Yellow Onion'] 0.32 40.625
+
+Organic Yellow Onion <- ['Organic Lemon', 'Organic Baby Spinach'] 0.52 25.0
+
+Organic Hass Avocado <- ['Organic Lemon', 'Organic Yellow Onion'] 0.32 28.125
+
+Organic Garlic <- ['Organic Lemon', 'Organic Yellow Onion'] 0.32 25.0
+
+Organic Yellow Onion <- ['Organic Lemon', 'Organic Garlic'] 0.32 25.0
+
+Organic Cilantro <- ['Organic Lemon', 'Limes'] 0.35000000000000003 25.71428571428571
+
+Banana <- ['Yellow Onions'] 2.82 27.30496453900709
+
+Banana <- ['Yellow Onions', 'Organic Baby Spinach'] 0.49 34.69387755102041
+
+Banana <- ['Yellow Onions', 'Large Lemon'] 0.58 31.03448275862069
+
+Banana <- ['Yellow Onions', 'Organic Avocado'] 0.38 31.57894736842105
+
+Large Lemon <- ['Yellow Onions', 'Organic Avocado'] 0.38 42.10526315789473
+
+Organic Avocado <- ['Yellow Onions', 'Large Lemon'] 0.58 27.586206896551722
+
+Banana <- ['Yellow Onions', 'Limes'] 0.41000000000000003 36.58536585365854
+
+Organic Baby Spinach <- ['Yellow Onions', 'Limes'] 0.41000000000000003 29.268292682926827
+
+Large Lemon <- ['Yellow Onions', 'Limes'] 0.41000000000000003 43.90243902439025
+
+Limes <- ['Yellow Onions', 'Large Lemon'] 0.58 31.03448275862069
+
+Organic Avocado <- ['Yellow Onions', 'Limes'] 0.41000000000000003 29.268292682926827
+
+Limes <- ['Yellow Onions', 'Organic Avocado'] 0.38 31.57894736842105
+
+Large Lemon <- ['Yellow Onions', 'Organic Zucchini'] 0.33 36.36363636363637
+
+Organic Red Onion <- ['Yellow Onions', 'Organic Avocado'] 0.38 26.31578947368421
+
+Bag of Organic Bananas <- ['Organic Baby Carrots'] 2.8400000000000003 25.0
+
+Bag of Organic Bananas <- ['Organic Baby Carrots', 'Organic Strawberries'] 0.5 44.0
+
+Organic Strawberries <- ['Organic Baby Carrots', 'Bag of Organic Bananas'] 0.7100000000000001 30.985915492957744
+
+Banana <- ['Organic Baby Carrots', 'Organic Baby Spinach'] 0.44 29.545454545454547
+
+Bag of Organic Bananas <- ['Organic Baby Carrots', 'Organic Baby Spinach'] 0.44 34.090909090909086
+
+Banana <- ['Organic Baby Carrots', 'Large Lemon'] 0.33999999999999997 26.47058823529412
+
+Bag of Organic Bananas <- ['Organic Baby Carrots', 'Large Lemon'] 0.33999999999999997 26.47058823529412
+
+Banana <- ['Organic Baby Carrots', 'Organic Avocado'] 0.3 53.333333333333336
+
+Organic Avocado <- ['Organic Baby Carrots', 'Banana'] 0.5599999999999999 28.57142857142857
+
+Organic Baby Spinach <- ['Organic Baby Carrots', 'Organic Avocado'] 0.3 26.666666666666668
+
+Large Lemon <- ['Organic Baby Carrots', 'Organic Avocado'] 0.3 33.33333333333333
+
+Organic Avocado <- ['Organic Baby Carrots', 'Large Lemon'] 0.33999999999999997 29.411764705882355
+
+Bag of Organic Bananas <- ['Organic Baby Carrots', 'Organic Hass Avocado'] 0.32 43.75
+
+Organic Strawberries <- ['Organic Baby Carrots', 'Organic Hass Avocado'] 0.32 34.375
+
+Bag of Organic Bananas <- ['Organic Baby Carrots', 'Organic Cucumber'] 0.3 30.0
+
+Organic Baby Spinach <- ['Organic Baby Carrots', 'Organic Cucumber'] 0.3 33.33333333333333
+
+Large Lemon <- ['Organic Baby Carrots', 'Organic Cucumber'] 0.3 26.666666666666668
+
+Organic Zucchini <- ['Organic Baby Carrots', 'Large Lemon'] 0.33999999999999997 26.47058823529412
+
+Seedless Red Grapes <- ['Organic Baby Carrots', 'Banana'] 0.5599999999999999 26.785714285714285
+
+Banana <- ['Honeycrisp Apple'] 2.88 36.11111111111111
+
+Banana <- ['Honeycrisp Apple', 'Organic Strawberries'] 0.4 35.0
+
+Bag of Organic Bananas <- ['Honeycrisp Apple', 'Organic Strawberries'] 0.4 27.500000000000004
+
+Banana <- ['Honeycrisp Apple', 'Organic Baby Spinach'] 0.31 41.935483870967744
+
+Bag of Organic Bananas <- ['Honeycrisp Apple', 'Organic Baby Spinach'] 0.31 25.806451612903224
+
+Banana <- ['Honeycrisp Apple', 'Large Lemon'] 0.45999999999999996 32.608695652173914
+
+Banana <- ['Honeycrisp Apple', 'Organic Avocado'] 0.31 48.38709677419355
+
+Large Lemon <- ['Honeycrisp Apple', 'Organic Avocado'] 0.31 25.806451612903224
+
+Bag of Organic Bananas <- ['Honeycrisp Apple', 'Organic Hass Avocado'] 0.33 30.303030303030305
+
+Organic Baby Spinach <- ['Honeycrisp Apple', 'Organic Hass Avocado'] 0.33 27.27272727272727
+
+Organic Hass Avocado <- ['Honeycrisp Apple', 'Organic Baby Spinach'] 0.31 29.03225806451613
+
+Banana <- ['Honeycrisp Apple', 'Strawberries'] 0.32 62.5
+
+Organic Avocado <- ['Honeycrisp Apple', 'Strawberries'] 0.32 25.0
+
+Strawberries <- ['Honeycrisp Apple', 'Organic Avocado'] 0.31 25.806451612903224
+
+Bag of Organic Bananas <- ['Organic Large Extra Fancy Fuji Apple'] 2.29 34.93449781659388
+
+Bag of Organic Bananas <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries'] 0.5599999999999999 53.57142857142857
+
+Organic Strawberries <- ['Organic Large Extra Fancy Fuji Apple', 'Bag of Organic Bananas'] 0.8 37.5
+
+Organic Baby Spinach <- ['Organic Large Extra Fancy Fuji Apple', 'Banana'] 0.33999999999999997 26.47058823529412
+
+Bag of Organic Bananas <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Baby Spinach'] 0.42 45.23809523809524
+
+Organic Baby Spinach <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.3 26.666666666666668
+
+Organic Strawberries <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Baby Spinach'] 0.42 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Hass Avocado'] 0.43 44.18604651162791
+
+Organic Hass Avocado <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.3 30.0
+
+Organic Strawberries <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Hass Avocado'] 0.43 30.23255813953488
+
+Organic Baby Spinach <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Hass Avocado'] 0.43 27.906976744186046
+
+Organic Hass Avocado <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Baby Spinach'] 0.42 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries'] 0.36 63.888888888888886
+
+Organic Raspberries <- ['Organic Large Extra Fancy Fuji Apple', 'Bag of Organic Bananas'] 0.8 28.749999999999996
+
+Organic Raspberries <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries', 'Bag of Organic Bananas'] 0.3 40.0
+
+Organic Strawberries <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries'] 0.36 44.44444444444444
+
+Organic Raspberries <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Strawberries'] 0.5599999999999999 28.57142857142857
+
+Organic Baby Spinach <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries'] 0.36 25.0
+
+Organic Hass Avocado <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Raspberries'] 0.36 38.88888888888889
+
+Organic Raspberries <- ['Organic Large Extra Fancy Fuji Apple', 'Organic Hass Avocado'] 0.43 32.55813953488372
+
+Organic Strawberries <- ['Sparkling Water Grapefruit', 'Bag of Organic Bananas'] 0.38 26.31578947368421
+
+Organic Hass Avocado <- ['Sparkling Water Grapefruit', 'Bag of Organic Bananas'] 0.38 28.947368421052634
+
+Banana <- ['Broccoli Crown'] 2.2800000000000002 25.438596491228072
+
+Banana <- ['Broccoli Crown', 'Organic Baby Spinach'] 0.38999999999999996 30.76923076923077
+
+Large Lemon <- ['Broccoli Crown', 'Bag of Organic Bananas'] 0.31 29.03225806451613
+
+Banana <- ['Broccoli Crown', 'Organic Avocado'] 0.35000000000000003 48.57142857142857
+
+Organic Avocado <- ['Broccoli Crown', 'Banana'] 0.58 29.310344827586203
+
+Organic Baby Spinach <- ['Broccoli Crown', 'Organic Avocado'] 0.35000000000000003 25.71428571428571
+
+Organic Baby Spinach <- ['Broccoli Crown', 'Limes'] 0.3 40.0
+
+Limes <- ['Broccoli Crown', 'Organic Baby Spinach'] 0.38999999999999996 30.76923076923077
+
+Large Lemon <- ['Broccoli Crown', 'Limes'] 0.3 50.0
+
+Limes <- ['Broccoli Crown', 'Large Lemon'] 0.44999999999999996 33.33333333333333
+
+Organic Avocado <- ['Broccoli Crown', 'Limes'] 0.3 30.0
+
+Limes <- ['Broccoli Crown', 'Organic Avocado'] 0.35000000000000003 25.71428571428571
+
+Banana <- ['Broccoli Crown', 'Strawberries'] 0.32 46.875
+
+Strawberries <- ['Broccoli Crown', 'Banana'] 0.58 25.862068965517242
+
+Organic Baby Spinach <- ['Broccoli Crown', 'Strawberries'] 0.32 28.125
+
+Organic Avocado <- ['Broccoli Crown', 'Strawberries'] 0.32 25.0
+
+Organic Blueberries <- ['Broccoli Crown', 'Strawberries'] 0.32 25.0
+
+Large Lemon <- ['Broccoli Crown', 'Asparagus'] 0.33 30.303030303030305
+
+Asparagus <- ['Broccoli Crown', 'Limes'] 0.3 26.666666666666668
+
+Organic Cucumber <- ['Broccoli Crown', 'Asparagus'] 0.33 27.27272727272727
+
+Honeycrisp Apple <- ['Broccoli Crown', 'Strawberries'] 0.32 28.125
+
+Broccoli Crown <- ['Honeycrisp Apple', 'Strawberries'] 0.32 28.125
+
+Bag of Organic Bananas <- ['Organic Small Bunch Celery'] 2.15 25.116279069767444
+
+Bag of Organic Bananas <- ['Organic Small Bunch Celery', 'Organic Strawberries'] 0.43 44.18604651162791
+
+Organic Strawberries <- ['Organic Small Bunch Celery', 'Bag of Organic Bananas'] 0.54 35.18518518518518
+
+Organic Baby Spinach <- ['Organic Small Bunch Celery', 'Banana'] 0.3 33.33333333333333
+
+Banana <- ['Organic Small Bunch Celery', 'Large Lemon'] 0.32 31.25
+
+Large Lemon <- ['Organic Small Bunch Celery', 'Banana'] 0.3 33.33333333333333
+
+Bag of Organic Bananas <- ['Organic Small Bunch Celery', 'Organic Hass Avocado'] 0.32 40.625
+
+Organic Strawberries <- ['Organic Small Bunch Celery', 'Organic Hass Avocado'] 0.32 31.25
+
+Organic Baby Spinach <- ['Organic Small Bunch Celery', 'Organic Hass Avocado'] 0.32 25.0
+
+Bag of Organic Bananas <- ['Organic Small Bunch Celery', 'Organic Cucumber'] 0.49 32.6530612244898
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Bag of Organic Bananas'] 0.54 29.629629629629626
+
+Organic Strawberries <- ['Organic Small Bunch Celery', 'Organic Cucumber'] 0.49 28.57142857142857
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Organic Strawberries'] 0.43 32.55813953488372
+
+Organic Baby Spinach <- ['Organic Small Bunch Celery', 'Organic Cucumber'] 0.49 28.57142857142857
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Organic Baby Spinach'] 0.44999999999999996 31.11111111111111
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Large Lemon'] 0.32 31.25
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Organic Hass Avocado'] 0.32 28.125
+
+Bag of Organic Bananas <- ['Organic Small Bunch Celery', 'Organic Garlic'] 0.3 36.666666666666664
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Organic Garlic'] 0.3 30.0
+
+Bag of Organic Bananas <- ['Organic Small Bunch Celery', 'Organic Baby Carrots'] 0.3 36.666666666666664
+
+Organic Baby Spinach <- ['Organic Small Bunch Celery', 'Organic Baby Carrots'] 0.3 26.666666666666668
+
+Organic Cucumber <- ['Organic Small Bunch Celery', 'Organic Baby Carrots'] 0.3 36.666666666666664
+
+Organic Small Bunch Celery <- ['Organic Baby Carrots', 'Organic Cucumber'] 0.3 36.666666666666664
+
+Organic Yellow Onion <- ['Organic Small Bunch Celery', 'Organic Baby Carrots'] 0.3 30.0
+
+Banana <- ['Organic Fuji Apple'] 2.33 36.05150214592275
+
+Banana <- ['Organic Fuji Apple', 'Organic Baby Spinach'] 0.3 36.666666666666664
+
+Banana <- ['Organic Fuji Apple', 'Large Lemon'] 0.38999999999999996 33.33333333333333
+
+Bag of Organic Bananas <- ['Organic Fuji Apple', 'Large Lemon'] 0.38999999999999996 25.64102564102564
+
+Banana <- ['Organic Fuji Apple', 'Organic Avocado'] 0.31 61.29032258064516
+
+Organic Hass Avocado <- ['Organic Fuji Apple', 'Bag of Organic Bananas'] 0.42 26.190476190476193
+
+Limes <- ['Organic Fuji Apple', 'Organic Baby Spinach'] 0.3 26.666666666666668
+
+Banana <- ['Red Peppers'] 2.19 25.11415525114155
+
+Banana <- ['Red Peppers', 'Large Lemon'] 0.36 27.77777777777778
+
+Banana <- ['Red Peppers', 'Organic Avocado'] 0.41000000000000003 48.78048780487805
+
+Organic Avocado <- ['Red Peppers', 'Banana'] 0.5499999999999999 36.36363636363637
+
+Organic Avocado <- ['Red Peppers', 'Large Lemon'] 0.36 25.0
+
+Banana <- ['Red Peppers', 'Organic Zucchini'] 0.31 35.483870967741936
+
+Large Lemon <- ['Red Peppers', 'Organic Zucchini'] 0.31 29.03225806451613
+
+Organic Zucchini <- ['Red Peppers', 'Large Lemon'] 0.36 25.0
+
+Organic Red Onion <- ['Red Peppers', 'Large Lemon'] 0.36 27.77777777777778
+
+Yellow Onions <- ['Red Peppers', 'Large Lemon'] 0.36 25.0
+
+Bag of Organic Bananas <- ['Organic Gala Apples'] 2.3 30.434782608695656
+
+Bag of Organic Bananas <- ['Organic Gala Apples', 'Organic Strawberries'] 0.45999999999999996 47.82608695652174
+
+Organic Strawberries <- ['Organic Gala Apples', 'Bag of Organic Bananas'] 0.7000000000000001 31.428571428571427
+
+Banana <- ['Organic Gala Apples', 'Organic Baby Spinach'] 0.42 26.190476190476193
+
+Bag of Organic Bananas <- ['Organic Gala Apples', 'Organic Baby Spinach'] 0.42 30.952380952380953
+
+Banana <- ['Green Bell Pepper'] 1.9800000000000002 26.262626262626267
+
+Banana <- ['Green Bell Pepper', 'Large Lemon'] 0.3 40.0
+
+Organic Avocado <- ['Green Bell Pepper', 'Banana'] 0.52 25.0
+
+Organic Avocado <- ['Green Bell Pepper', 'Large Lemon'] 0.3 33.33333333333333
+
+Limes <- ['Green Bell Pepper', 'Large Lemon'] 0.3 40.0
+
+Organic Cucumber <- ['Green Bell Pepper', 'Large Lemon'] 0.3 26.666666666666668
+
+Organic Grape Tomatoes <- ['Green Bell Pepper', 'Large Lemon'] 0.3 30.0
+
+Asparagus <- ['Green Bell Pepper', 'Large Lemon'] 0.3 26.666666666666668
+
+Banana <- ['Green Bell Pepper', 'Red Peppers'] 0.41000000000000003 31.70731707317073
+
+Red Peppers <- ['Green Bell Pepper', 'Banana'] 0.52 25.0
+
+Bag of Organic Bananas <- ['Original Hummus', 'Organic Strawberries'] 0.41000000000000003 34.146341463414636
+
+Organic Strawberries <- ['Original Hummus', 'Bag of Organic Bananas'] 0.49 28.57142857142857
+
+Banana <- ['Original Hummus', 'Organic Baby Spinach'] 0.32 28.125
+
+Bag of Organic Bananas <- ['Original Hummus', 'Organic Baby Spinach'] 0.32 28.125
+
+Banana <- ['Original Hummus', 'Organic Avocado'] 0.36 27.77777777777778
+
+Bag of Organic Bananas <- ['Original Hummus', 'Organic Avocado'] 0.36 33.33333333333333
+
+Bag of Organic Bananas <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Strawberries'] 0.42 45.23809523809524
+
+Organic Strawberries <- ['Organic Garnet Sweet Potato (Yam)', 'Bag of Organic Bananas'] 0.48 39.58333333333333
+
+Banana <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Baby Spinach'] 0.52 26.923076923076923
+
+Organic Baby Spinach <- ['Organic Garnet Sweet Potato (Yam)', 'Banana'] 0.43 32.55813953488372
+
+Bag of Organic Bananas <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Baby Spinach'] 0.52 26.923076923076923
+
+Organic Baby Spinach <- ['Organic Garnet Sweet Potato (Yam)', 'Bag of Organic Bananas'] 0.48 29.166666666666668
+
+Organic Strawberries <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Baby Spinach'] 0.52 25.0
+
+Organic Baby Spinach <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Strawberries'] 0.42 30.952380952380953
+
+Organic Avocado <- ['Organic Garnet Sweet Potato (Yam)', 'Banana'] 0.43 25.581395348837212
+
+Bag of Organic Bananas <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Hass Avocado'] 0.33 39.39393939393939
+
+Organic Hass Avocado <- ['Organic Garnet Sweet Potato (Yam)', 'Bag of Organic Bananas'] 0.48 27.083333333333332
+
+Organic Strawberries <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Hass Avocado'] 0.33 30.303030303030305
+
+Organic Baby Spinach <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Hass Avocado'] 0.33 36.36363636363637
+
+Limes <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Baby Spinach'] 0.52 25.0
+
+Organic Raspberries <- ['Organic Garnet Sweet Potato (Yam)', 'Bag of Organic Bananas'] 0.48 25.0
+
+Banana <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Zucchini'] 0.37 29.72972972972973
+
+Organic Zucchini <- ['Organic Garnet Sweet Potato (Yam)', 'Banana'] 0.43 25.581395348837212
+
+Bag of Organic Bananas <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Zucchini'] 0.37 27.027027027027028
+
+Organic Strawberries <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Zucchini'] 0.37 32.432432432432435
+
+Organic Zucchini <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Strawberries'] 0.42 28.57142857142857
+
+Organic Zucchini <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Hass Avocado'] 0.33 27.27272727272727
+
+Asparagus <- ['Organic Garnet Sweet Potato (Yam)', 'Organic Zucchini'] 0.37 27.027027027027028
+
+Organic Garnet Sweet Potato (Yam) <- ['Asparagus', 'Organic Zucchini'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Small Hass Avocado', 'Organic Strawberries'] 0.36 36.11111111111111
+
+Organic Strawberries <- ['Small Hass Avocado', 'Bag of Organic Bananas'] 0.4 32.5
+
+Banana <- ['Small Hass Avocado', 'Organic Baby Spinach'] 0.32 28.125
+
+Bag of Organic Bananas <- ['Small Hass Avocado', 'Organic Baby Spinach'] 0.32 25.0
+
+Banana <- ['Small Hass Avocado', 'Large Lemon'] 0.36 25.0
+
+Large Lemon <- ['Small Hass Avocado', 'Organic Baby Spinach'] 0.32 25.0
+
+Organic Strawberries <- ['Organic Blackberries', 'Banana'] 0.44 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Blackberries', 'Organic Strawberries'] 0.5 36.0
+
+Organic Strawberries <- ['Organic Blackberries', 'Bag of Organic Bananas'] 0.4 45.0
+
+Bag of Organic Bananas <- ['Organic Blackberries', 'Organic Raspberries'] 0.37 27.027027027027028
+
+Organic Raspberries <- ['Organic Blackberries', 'Bag of Organic Bananas'] 0.4 25.0
+
+Organic Strawberries <- ['Organic Blackberries', 'Organic Raspberries'] 0.37 32.432432432432435
+
+Bag of Organic Bananas <- ['Fresh Cauliflower'] 1.96 25.510204081632654
+
+Bag of Organic Bananas <- ['Fresh Cauliflower', 'Organic Strawberries'] 0.33 48.484848484848484
+
+Organic Strawberries <- ['Fresh Cauliflower', 'Bag of Organic Bananas'] 0.5 32.0
+
+Banana <- ['Fresh Cauliflower', 'Organic Baby Spinach'] 0.35000000000000003 34.285714285714285
+
+Organic Baby Spinach <- ['Fresh Cauliflower', 'Banana'] 0.4 30.0
+
+Organic Avocado <- ['Fresh Cauliflower', 'Banana'] 0.4 32.5
+
+Organic Avocado <- ['Fresh Cauliflower', 'Organic Baby Spinach'] 0.35000000000000003 31.428571428571427
+
+Bag of Organic Bananas <- ['Fresh Cauliflower', 'Organic Hass Avocado'] 0.33999999999999997 44.11764705882353
+
+Organic Hass Avocado <- ['Fresh Cauliflower', 'Bag of Organic Bananas'] 0.5 30.0
+
+Organic Baby Spinach <- ['Fresh Cauliflower', 'Organic Hass Avocado'] 0.33999999999999997 26.47058823529412
+
+Organic Hass Avocado <- ['Fresh Cauliflower', 'Organic Baby Spinach'] 0.35000000000000003 25.71428571428571
+
+Limes <- ['Fresh Cauliflower', 'Organic Baby Spinach'] 0.35000000000000003 28.57142857142857
+
+Organic Zucchini <- ['Fresh Cauliflower', 'Organic Strawberries'] 0.33 27.27272727272727
+
+Organic Grape Tomatoes <- ['Fresh Cauliflower', 'Organic Strawberries'] 0.33 27.27272727272727
+
+Banana <- ['Michigan Organic Kale'] 2.09 25.837320574162682
+
+Banana <- ['Michigan Organic Kale', 'Organic Baby Spinach'] 0.43 27.906976744186046
+
+Bag of Organic Bananas <- ['Michigan Organic Kale', 'Organic Baby Spinach'] 0.43 27.906976744186046
+
+Organic Baby Spinach <- ['Michigan Organic Kale', 'Bag of Organic Bananas'] 0.44999999999999996 26.666666666666668
+
+Banana <- ['Michigan Organic Kale', 'Large Lemon'] 0.38 31.57894736842105
+
+Organic Avocado <- ['Michigan Organic Kale', 'Organic Baby Spinach'] 0.43 27.906976744186046
+
+Limes <- ['Michigan Organic Kale', 'Organic Baby Spinach'] 0.43 27.906976744186046
+
+Michigan Organic Kale <- ['Limes', 'Organic Avocado', 'Organic Baby Spinach'] 0.3 26.666666666666668
+
+Michigan Organic Kale <- ['Fresh Cauliflower', 'Banana'] 0.4 25.0
+
+Bag of Organic Bananas <- ['Carrots', 'Organic Strawberries'] 0.31 48.38709677419355
+
+Organic Strawberries <- ['Carrots', 'Bag of Organic Bananas'] 0.44999999999999996 33.33333333333333
+
+Bag of Organic Bananas <- ['Carrots', 'Organic Baby Spinach'] 0.33999999999999997 32.35294117647059
+
+Organic Strawberries <- ['Carrots', 'Organic Baby Spinach'] 0.33999999999999997 32.35294117647059
+
+Organic Baby Spinach <- ['Carrots', 'Organic Strawberries'] 0.31 35.483870967741936
+
+Large Lemon <- ['Carrots', 'Organic Strawberries'] 0.31 25.806451612903224
+
+Limes <- ['Carrots', 'Large Lemon'] 0.33999999999999997 32.35294117647059
+
+Banana <- ['Organic Peeled Whole Baby Carrots', 'Organic Strawberries'] 0.36 25.0
+
+Bag of Organic Bananas <- ['Organic Peeled Whole Baby Carrots', 'Organic Strawberries'] 0.36 36.11111111111111
+
+Organic Strawberries <- ['Organic Peeled Whole Baby Carrots', 'Bag of Organic Bananas'] 0.45999999999999996 28.26086956521739
+
+Bag of Organic Bananas <- ['Organic Peeled Whole Baby Carrots', 'Organic Baby Spinach'] 0.41000000000000003 39.02439024390244
+
+Organic Baby Spinach <- ['Organic Peeled Whole Baby Carrots', 'Bag of Organic Bananas'] 0.45999999999999996 34.78260869565217
+
+Organic Strawberries <- ['Organic Peeled Whole Baby Carrots', 'Organic Baby Spinach'] 0.41000000000000003 34.146341463414636
+
+Organic Baby Spinach <- ['Organic Peeled Whole Baby Carrots', 'Organic Strawberries'] 0.36 38.88888888888889
+
+Banana <- ['Organic Peeled Whole Baby Carrots', 'Organic Avocado'] 0.33 36.36363636363637
+
+Organic Avocado <- ['Organic Peeled Whole Baby Carrots', 'Banana'] 0.44999999999999996 26.666666666666668
+
+Organic Baby Spinach <- ['Organic Peeled Whole Baby Carrots', 'Organic Avocado'] 0.33 33.33333333333333
+
+Organic Avocado <- ['Organic Peeled Whole Baby Carrots', 'Organic Baby Spinach'] 0.41000000000000003 26.82926829268293
+
+Organic Hass Avocado <- ['Organic Peeled Whole Baby Carrots', 'Bag of Organic Bananas'] 0.45999999999999996 26.08695652173913
+
+Organic Grape Tomatoes <- ['Organic Peeled Whole Baby Carrots', 'Organic Strawberries'] 0.36 25.0
+
+Original Hummus <- ['Organic Peeled Whole Baby Carrots', 'Organic Avocado'] 0.33 27.27272727272727
+
+Organic Peeled Whole Baby Carrots <- ['Original Hummus', 'Organic Avocado'] 0.36 25.0
+
+Bag of Organic Bananas <- ['Organic Tomato Cluster'] 1.96 25.0
+
+Bag of Organic Bananas <- ['Organic Tomato Cluster', 'Organic Strawberries'] 0.41000000000000003 48.78048780487805
+
+Organic Strawberries <- ['Organic Tomato Cluster', 'Bag of Organic Bananas'] 0.49 40.816326530612244
+
+Banana <- ['Organic Tomato Cluster', 'Organic Baby Spinach'] 0.32 28.125
+
+Organic Baby Spinach <- ['Organic Tomato Cluster', 'Banana'] 0.3 30.0
+
+Bag of Organic Bananas <- ['Organic Tomato Cluster', 'Organic Baby Spinach'] 0.32 28.125
+
+Banana <- ['Organic Tomato Cluster', 'Large Lemon'] 0.31 25.806451612903224
+
+Large Lemon <- ['Organic Tomato Cluster', 'Banana'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Tomato Cluster', 'Large Lemon'] 0.31 25.806451612903224
+
+Organic Baby Spinach <- ['Organic Tomato Cluster', 'Large Lemon'] 0.31 32.25806451612903
+
+Large Lemon <- ['Organic Tomato Cluster', 'Organic Baby Spinach'] 0.32 31.25
+
+Bag of Organic Bananas <- ['Organic Tomato Cluster', 'Organic Hass Avocado'] 0.38 39.473684210526315
+
+Organic Hass Avocado <- ['Organic Tomato Cluster', 'Bag of Organic Bananas'] 0.49 30.612244897959183
+
+Organic Baby Carrots <- ['Organic Tomato Cluster', 'Large Lemon'] 0.31 25.806451612903224
+
+Banana <- ['Organic Red Bell Pepper', 'Organic Strawberries'] 0.44999999999999996 28.888888888888886
+
+Organic Strawberries <- ['Organic Red Bell Pepper', 'Banana'] 0.33 39.39393939393939
+
+Bag of Organic Bananas <- ['Organic Red Bell Pepper', 'Organic Strawberries'] 0.44999999999999996 40.0
+
+Organic Strawberries <- ['Organic Red Bell Pepper', 'Bag of Organic Bananas'] 0.44999999999999996 40.0
+
+Banana <- ['Organic Red Bell Pepper', 'Organic Baby Spinach'] 0.38 28.947368421052634
+
+Organic Baby Spinach <- ['Organic Red Bell Pepper', 'Banana'] 0.33 33.33333333333333
+
+Organic Avocado <- ['Organic Red Bell Pepper', 'Banana'] 0.33 33.33333333333333
+
+Organic Avocado <- ['Organic Red Bell Pepper', 'Organic Baby Spinach'] 0.38 28.947368421052634
+
+Limes <- ['Organic Red Bell Pepper', 'Organic Baby Spinach'] 0.38 28.947368421052634
+
+Organic Red Bell Pepper <- ['Limes', 'Organic Avocado', 'Organic Baby Spinach'] 0.3 26.666666666666668
+
+Organic Cucumber <- ['Organic Red Bell Pepper', 'Organic Baby Spinach'] 0.38 26.31578947368421
+
+Organic Baby Spinach <- ['Organic Baby Arugula', 'Banana'] 0.43 25.581395348837212
+
+Organic Baby Spinach <- ['Organic Baby Arugula', 'Bag of Organic Bananas'] 0.35000000000000003 25.71428571428571
+
+Organic Baby Spinach <- ['Organic Baby Arugula', 'Large Lemon'] 0.38 26.31578947368421
+
+Banana <- ['Organic Baby Arugula', 'Organic Avocado'] 0.3 33.33333333333333
+
+Large Lemon <- ['Organic Baby Arugula', 'Organic Avocado'] 0.3 43.333333333333336
+
+Organic Avocado <- ['Organic Baby Arugula', 'Large Lemon'] 0.38 34.21052631578947
+
+Organic Hass Avocado <- ['Organic Baby Arugula', 'Bag of Organic Bananas'] 0.35000000000000003 37.142857142857146
+
+Limes <- ['Organic Baby Arugula', 'Organic Avocado'] 0.3 30.0
+
+Bag of Organic Bananas <- ['Raspberries', 'Organic Strawberries'] 0.43 30.23255813953488
+
+Organic Strawberries <- ['Raspberries', 'Bag of Organic Bananas'] 0.42 30.952380952380953
+
+Banana <- ['Raspberries', 'Organic Baby Spinach'] 0.31 25.806451612903224
+
+Organic Strawberries <- ['Raspberries', 'Organic Baby Spinach'] 0.31 25.806451612903224
+
+Banana <- ['Raspberries', 'Large Lemon'] 0.32 40.625
+
+Large Lemon <- ['Raspberries', 'Banana'] 0.48 27.083333333333332
+
+Organic Avocado <- ['Raspberries', 'Large Lemon'] 0.32 34.375
+
+Limes <- ['Raspberries', 'Large Lemon'] 0.32 31.25
+
+Bag of Organic Bananas <- ['Raspberries', 'Organic Blueberries'] 0.43 32.55813953488372
+
+Organic Blueberries <- ['Raspberries', 'Bag of Organic Bananas'] 0.42 33.33333333333333
+
+Organic Strawberries <- ['Raspberries', 'Organic Blueberries'] 0.43 27.906976744186046
+
+Organic Blueberries <- ['Raspberries', 'Organic Strawberries'] 0.43 27.906976744186046
+
+Organic Blueberries <- ['Raspberries', 'Organic Baby Spinach'] 0.31 25.806451612903224
+
+Bag of Organic Bananas <- ['Organic Italian Parsley Bunch', 'Organic Strawberries'] 0.35000000000000003 42.857142857142854
+
+Organic Strawberries <- ['Organic Italian Parsley Bunch', 'Bag of Organic Bananas'] 0.33 45.45454545454545
+
+Large Lemon <- ['Organic Italian Parsley Bunch', 'Banana'] 0.33999999999999997 32.35294117647059
+
+Large Lemon <- ['Organic Italian Parsley Bunch', 'Organic Strawberries'] 0.35000000000000003 25.71428571428571
+
+Organic Hass Avocado <- ['Organic Italian Parsley Bunch', 'Bag of Organic Bananas'] 0.33 39.39393939393939
+
+Organic Hass Avocado <- ['Organic Italian Parsley Bunch', 'Organic Strawberries'] 0.35000000000000003 25.71428571428571
+
+Organic Zucchini <- ['Organic Italian Parsley Bunch', 'Bag of Organic Bananas'] 0.33 27.27272727272727
+
+Organic Garlic <- ['Organic Italian Parsley Bunch', 'Bag of Organic Bananas'] 0.33 27.27272727272727
+
+Bag of Organic Bananas <- ['Apple Honeycrisp Organic'] 1.81 30.386740331491712
+
+Organic Strawberries <- ['Apple Honeycrisp Organic', 'Banana'] 0.32 28.125
+
+Bag of Organic Bananas <- ['Apple Honeycrisp Organic', 'Organic Strawberries'] 0.42 45.23809523809524
+
+Organic Strawberries <- ['Apple Honeycrisp Organic', 'Bag of Organic Bananas'] 0.5499999999999999 34.54545454545455
+
+Organic Hass Avocado <- ['Apple Honeycrisp Organic', 'Bag of Organic Bananas'] 0.5499999999999999 32.72727272727273
+
+Organic Hass Avocado <- ['Apple Honeycrisp Organic', 'Organic Strawberries'] 0.42 28.57142857142857
+
+Bag of Organic Bananas <- ['Apple Honeycrisp Organic', 'Organic Raspberries'] 0.31 45.16129032258064
+
+Organic Raspberries <- ['Apple Honeycrisp Organic', 'Bag of Organic Bananas'] 0.5499999999999999 25.454545454545453
+
+Organic Strawberries <- ['Apple Honeycrisp Organic', 'Organic Raspberries'] 0.31 32.25806451612903
+
+Organic Hass Avocado <- ['Apple Honeycrisp Organic', 'Organic Raspberries'] 0.31 25.806451612903224
+
+Bag of Organic Bananas <- ['Half & Half', 'Organic Strawberries'] 0.3 33.33333333333333
+
+Organic Strawberries <- ['Half & Half', 'Bag of Organic Bananas'] 0.3 33.33333333333333
+
+Organic Hass Avocado <- ['Half & Half', 'Bag of Organic Bananas'] 0.3 33.33333333333333
+
+Banana <- ['Cucumber Kirby'] 1.79 34.63687150837989
+
+Banana <- ['Cucumber Kirby', 'Organic Baby Spinach'] 0.35000000000000003 45.714285714285715
+
+Organic Baby Spinach <- ['Cucumber Kirby', 'Banana'] 0.62 25.806451612903224
+
+Banana <- ['Cucumber Kirby', 'Large Lemon'] 0.4 30.0
+
+Large Lemon <- ['Cucumber Kirby', 'Organic Baby Spinach'] 0.35000000000000003 25.71428571428571
+
+Limes <- ['Cucumber Kirby', 'Organic Baby Spinach'] 0.35000000000000003 34.285714285714285
+
+Limes <- ['Cucumber Kirby', 'Large Lemon'] 0.4 32.5
+
+Organic Red Onion <- ['Cucumber Kirby', 'Large Lemon'] 0.4 27.500000000000004
+
+Banana <- ['Orange Bell Pepper'] 1.48 27.7027027027027
+
+Bag of Organic Bananas <- ['Organic Whole String Cheese'] 1.47 30.612244897959183
+
+Banana <- ['Organic Whole String Cheese', 'Organic Strawberries'] 0.36 25.0
+
+Organic Strawberries <- ['Organic Whole String Cheese', 'Banana'] 0.3 30.0
+
+Bag of Organic Bananas <- ['Organic Whole String Cheese', 'Organic Strawberries'] 0.36 36.11111111111111
+
+Organic Strawberries <- ['Organic Whole String Cheese', 'Bag of Organic Bananas'] 0.44999999999999996 28.888888888888886
+
+Organic Avocado <- ['Organic Whole String Cheese', 'Banana'] 0.3 26.666666666666668
+
+Organic Hass Avocado <- ['Organic Whole String Cheese', 'Bag of Organic Bananas'] 0.44999999999999996 28.888888888888886
+
+Organic Whole Milk <- ['Organic Whole String Cheese', 'Banana'] 0.3 30.0
+
+Organic Whole Milk <- ['Organic Whole String Cheese', 'Organic Strawberries'] 0.36 27.77777777777778
+
+Bag of Organic Bananas <- ['Organic Granny Smith Apple'] 1.6099999999999999 29.19254658385093
+
+Banana <- ['Organic Granny Smith Apple', 'Organic Strawberries'] 0.36 27.77777777777778
+
+Organic Strawberries <- ['Organic Granny Smith Apple', 'Banana'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Granny Smith Apple', 'Organic Strawberries'] 0.36 41.66666666666667
+
+Organic Strawberries <- ['Organic Granny Smith Apple', 'Bag of Organic Bananas'] 0.47000000000000003 31.914893617021278
+
+Bag of Organic Bananas <- ['Organic Granny Smith Apple', 'Organic Baby Spinach'] 0.38 31.57894736842105
+
+Organic Baby Spinach <- ['Organic Granny Smith Apple', 'Bag of Organic Bananas'] 0.47000000000000003 25.53191489361702
+
+Organic Strawberries <- ['Organic Granny Smith Apple', 'Organic Baby Spinach'] 0.38 26.31578947368421
+
+Organic Baby Spinach <- ['Organic Granny Smith Apple', 'Organic Strawberries'] 0.36 27.77777777777778
+
+Organic Hass Avocado <- ['Organic Granny Smith Apple', 'Bag of Organic Bananas'] 0.47000000000000003 25.53191489361702
+
+Organic Raspberries <- ['Organic Granny Smith Apple', 'Bag of Organic Bananas'] 0.47000000000000003 25.53191489361702
+
+Organic Raspberries <- ['Organic Granny Smith Apple', 'Organic Strawberries'] 0.36 27.77777777777778
+
+Organic Cucumber <- ['Organic Granny Smith Apple', 'Bag of Organic Bananas'] 0.47000000000000003 29.78723404255319
+
+Organic Cucumber <- ['Organic Granny Smith Apple', 'Organic Strawberries'] 0.36 25.0
+
+Organic Cucumber <- ['Organic Granny Smith Apple', 'Organic Baby Spinach'] 0.38 31.57894736842105
+
+Organic Small Bunch Celery <- ['Organic Granny Smith Apple', 'Organic Baby Spinach'] 0.38 28.947368421052634
+
+Banana <- ['Red Vine Tomato'] 1.5599999999999998 33.33333333333333
+
+Bag of Organic Bananas <- ["Organic D'Anjou Pears"] 1.6400000000000001 35.97560975609756
+
+Bag of Organic Bananas <- ["Organic D'Anjou Pears", 'Organic Strawberries'] 0.42 42.857142857142854
+
+Organic Strawberries <- ["Organic D'Anjou Pears", 'Bag of Organic Bananas'] 0.59 30.508474576271187
+
+Organic Strawberries <- ["Organic D'Anjou Pears"] 1.6400000000000001 25.609756097560975
+
+Organic Hass Avocado <- ["Organic D'Anjou Pears", 'Bag of Organic Bananas'] 0.59 32.20338983050847
+
+Banana <- ['Blueberries'] 1.68 27.380952380952383
+
+Organic Strawberries <- ['Unsweetened Almondmilk', 'Banana'] 0.36 25.0
+
+Organic Strawberries <- ['Unsweetened Almondmilk', 'Bag of Organic Bananas'] 0.38999999999999996 28.205128205128204
+
+Organic Raspberries <- ['Unsweetened Almondmilk', 'Bag of Organic Bananas'] 0.38999999999999996 43.58974358974359
+
+Banana <- ['Garlic', 'Large Lemon'] 0.4 32.5
+
+Large Lemon <- ['Garlic', 'Banana'] 0.36 36.11111111111111
+
+Organic Baby Spinach <- ['Garlic', 'Large Lemon'] 0.4 27.500000000000004
+
+Limes <- ['Garlic', 'Large Lemon'] 0.4 32.5
+
+Organic Red Onion <- ['Garlic', 'Large Lemon'] 0.4 25.0
+
+Banana <- ['100% Whole Wheat Bread'] 1.58 30.37974683544304
+
+Strawberries <- ['100% Whole Wheat Bread', 'Banana'] 0.48 25.0
+
+Bag of Organic Bananas <- ['Organic Carrot Bunch'] 1.28 25.78125
+
+Organic Strawberries <- ['Organic Carrot Bunch', 'Bag of Organic Bananas'] 0.33 30.303030303030305
+
+Organic Large Extra Fancy Fuji Apple <- ['Organic Carrot Bunch', 'Bag of Organic Bananas'] 0.33 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Kiwi'] 1.39 41.726618705035975
+
+Bag of Organic Bananas <- ['Organic Kiwi', 'Organic Strawberries'] 0.38999999999999996 66.66666666666666
+
+Organic Strawberries <- ['Organic Kiwi', 'Bag of Organic Bananas'] 0.58 44.827586206896555
+
+Organic Strawberries <- ['Organic Kiwi'] 1.39 28.05755395683453
+
+Bag of Organic Bananas <- ['Organic Kiwi', 'Organic Hass Avocado'] 0.31 67.74193548387096
+
+Organic Hass Avocado <- ['Organic Kiwi', 'Bag of Organic Bananas'] 0.58 36.206896551724135
+
+Organic Strawberries <- ['Organic Kiwi', 'Organic Hass Avocado'] 0.31 45.16129032258064
+
+Organic Hass Avocado <- ['Organic Kiwi', 'Organic Strawberries'] 0.38999999999999996 35.8974358974359
+
+Organic Baby Spinach <- ['Organic Kiwi', 'Organic Hass Avocado'] 0.31 25.806451612903224
+
+Organic Raspberries <- ['Organic Kiwi', 'Bag of Organic Bananas'] 0.58 25.862068965517242
+
+Organic Raspberries <- ['Organic Kiwi', 'Organic Strawberries'] 0.38999999999999996 28.205128205128204
+
+Organic Large Extra Fancy Fuji Apple <- ['Organic Kiwi', 'Organic Hass Avocado'] 0.31 25.806451612903224
+
+Banana <- ['Bunched Cilantro'] 1.4500000000000002 29.655172413793103
+
+Banana <- ['Bunched Cilantro', 'Large Lemon'] 0.31 38.70967741935484
+
+Large Lemon <- ['Bunched Cilantro', 'Banana'] 0.43 27.906976744186046
+
+Banana <- ['Bunched Cilantro', 'Organic Avocado'] 0.33 39.39393939393939
+
+Organic Avocado <- ['Bunched Cilantro', 'Banana'] 0.43 30.23255813953488
+
+Organic Avocado <- ['Bunched Cilantro', 'Large Lemon'] 0.31 25.806451612903224
+
+Banana <- ['Bunched Cilantro', 'Limes'] 0.44999999999999996 33.33333333333333
+
+Limes <- ['Bunched Cilantro', 'Banana'] 0.43 34.883720930232556
+
+Large Lemon <- ['Bunched Cilantro', 'Limes'] 0.44999999999999996 40.0
+
+Limes <- ['Bunched Cilantro', 'Large Lemon'] 0.31 58.06451612903226
+
+Organic Avocado <- ['Bunched Cilantro', 'Limes'] 0.44999999999999996 33.33333333333333
+
+Limes <- ['Bunched Cilantro', 'Organic Avocado'] 0.33 45.45454545454545
+
+Limes <- ['Bunched Cilantro'] 1.4500000000000002 31.03448275862069
+
+Banana <- ['Boneless Skinless Chicken Breasts'] 1.55 31.61290322580645
+
+Banana <- ['Boneless Skinless Chicken Breasts', 'Organic Baby Spinach'] 0.33 39.39393939393939
+
+Organic Baby Spinach <- ['Boneless Skinless Chicken Breasts', 'Banana'] 0.49 26.53061224489796
+
+Large Lemon <- ['Boneless Skinless Chicken Breasts', 'Organic Baby Spinach'] 0.33 30.303030303030305
+
+Organic Avocado <- ['Boneless Skinless Chicken Breasts', 'Organic Baby Spinach'] 0.33 27.27272727272727
+
+Limes <- ['Roma Tomato', 'Banana'] 0.33999999999999997 32.35294117647059
+
+Bag of Organic Bananas <- ['Large Alfresco Eggs'] 1.46 25.34246575342466
+
+Organic Hass Avocado <- ['Large Alfresco Eggs', 'Bag of Organic Bananas'] 0.37 27.027027027027028
+
+Organic Baby Spinach <- ['Jalapeno Peppers', 'Limes'] 0.47000000000000003 27.659574468085108
+
+Large Lemon <- ['Jalapeno Peppers', 'Limes'] 0.47000000000000003 38.297872340425535
+
+Organic Avocado <- ['Jalapeno Peppers', 'Limes'] 0.47000000000000003 25.53191489361702
+
+Limes <- ['Jalapeno Peppers'] 1.37 34.306569343065696
+
+Jalapeno Peppers <- ['Green Bell Pepper', 'Large Lemon'] 0.3 26.666666666666668
+
+Organic Baby Spinach <- ['Uncured Genoa Salami', 'Bag of Organic Bananas'] 0.31 32.25806451612903
+
+Bag of Organic Bananas <- ['Organic Unsweetened Almond Milk'] 1.6400000000000001 33.53658536585366
+
+Organic Strawberries <- ['Organic Unsweetened Almond Milk', 'Bag of Organic Bananas'] 0.5499999999999999 27.27272727272727
+
+Organic Hass Avocado <- ['Organic Unsweetened Almond Milk', 'Bag of Organic Bananas'] 0.5499999999999999 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Navel Orange'] 1.5 42.0
+
+Organic Strawberries <- ['Organic Navel Orange', 'Bag of Organic Bananas'] 0.63 30.158730158730158
+
+Organic Cucumber <- ['Organic Navel Orange', 'Bag of Organic Bananas'] 0.63 26.984126984126984
+
+Bag of Organic Bananas <- ['Organic Black Beans'] 1.1199999999999999 30.357142857142854
+
+Organic Baby Spinach <- ['Organic Black Beans', 'Bag of Organic Bananas'] 0.33999999999999997 38.23529411764706
+
+Organic Hass Avocado <- ['Organic Black Beans', 'Bag of Organic Bananas'] 0.33999999999999997 32.35294117647059
+
+Organic Hass Avocado <- ['Organic Lacinato (Dinosaur) Kale', 'Bag of Organic Bananas'] 0.33999999999999997 32.35294117647059
+
+Organic Baby Spinach <- ['Organic Ginger Root', 'Bag of Organic Bananas'] 0.32 25.0
+
+Organic Baby Spinach <- ['Organic Ginger Root'] 1.39 25.179856115107913
+
+Bag of Organic Bananas <- ['Organic Ginger Root', 'Organic Garlic'] 0.33999999999999997 26.47058823529412
+
+Organic Garlic <- ['Organic Ginger Root', 'Bag of Organic Bananas'] 0.32 28.125
+
+Limes <- ['Organic Ginger Root', 'Organic Garlic'] 0.33999999999999997 29.411764705882355
+
+Bag of Organic Bananas <- ['Organic Broccoli'] 1.31 28.24427480916031
+
+Organic Strawberries <- ['Organic Broccoli', 'Bag of Organic Bananas'] 0.37 35.13513513513514
+
+Banana <- ['Unsalted Butter'] 1.3 26.923076923076923
+
+Strawberries <- ['Unsalted Butter', 'Banana'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Sticks Low Moisture Part Skim Mozzarella String Cheese'] 0.97 27.835051546391753
+
+Banana <- ['Cantaloupe'] 1.01 30.693069306930692
+
+Bag of Organic Bananas <- ['Cantaloupe'] 1.01 28.71287128712871
+
+Organic Strawberries <- ['Cantaloupe', 'Banana'] 0.31 29.03225806451613
+
+Banana <- ['Grape White/Green Seedless'] 1.08 25.0
+
+Bag of Organic Bananas <- ['Grape White/Green Seedless'] 1.08 26.851851851851855
+
+Organic Strawberries <- ['Grape White/Green Seedless'] 1.08 25.925925925925924
+
+Bag of Organic Bananas <- ['Organic Broccoli Florets'] 1.1199999999999999 26.785714285714285
+
+Organic Strawberries <- ['Organic Broccoli Florets', 'Bag of Organic Bananas'] 0.3 30.0
+
+Banana <- ['Russet Potato'] 1.11 30.630630630630627
+
+Banana <- ['Green Onions'] 1.09 28.440366972477065
+
+Bunched Cilantro <- ['Green Onions', 'Banana'] 0.31 25.806451612903224
+
+Banana <- ['Yellow Bell Pepper'] 0.9900000000000001 29.292929292929294
+
+Yellow Bell Pepper <- ['Orange Bell Pepper', 'Banana'] 0.41000000000000003 29.268292682926827
+
+Orange Bell Pepper <- ['Yellow Bell Pepper'] 0.9900000000000001 29.292929292929294
+
+Banana <- ['Feta Cheese Crumbles'] 1.01 25.742574257425744
+
+Banana <- ['No Salt Added Black Beans'] 1.0999999999999999 29.09090909090909
+
+Organic Baby Spinach <- ['No Salt Added Black Beans', 'Banana'] 0.32 31.25
+
+Organic Avocado <- ['No Salt Added Black Beans', 'Banana'] 0.32 28.125
+
+Organic Avocado <- ['No Salt Added Black Beans'] 1.0999999999999999 26.36363636363636
+
+Banana <- ['Honey Nut Cheerios'] 0.97 30.927835051546392
+
+Banana <- ['2% Reduced Fat Milk'] 1.21 29.75206611570248
+
+Bag of Organic Bananas <- ['Organic Roasted Turkey Breast'] 0.88 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Red Radish, Bunch'] 0.8999999999999999 26.666666666666668
+
+Organic Baby Spinach <- ['Organic Red Radish, Bunch'] 0.8999999999999999 25.555555555555554
+
+Banana <- ['Granny Smith Apples'] 1.13 30.08849557522124
+
+Banana <- ['Unsweetened Original Almond Breeze Almond Milk'] 1.13 29.20353982300885
+
+Bag of Organic Bananas <- ['Organic Whole Strawberries'] 0.9199999999999999 31.521739130434785
+
+Organic Baby Spinach <- ['Organic Whole Strawberries'] 0.9199999999999999 28.26086956521739
+
+Bag of Organic Bananas <- ['Organic Russet Potato'] 0.8999999999999999 25.555555555555554
+
+Bag of Organic Bananas <- ['Organic Romaine'] 0.86 29.069767441860467
+
+Sparkling Water Grapefruit <- ['Sparkling Lemon Water'] 1.06 29.245283018867923
+
+Lime Sparkling Water <- ['Sparkling Lemon Water', 'Sparkling Water Grapefruit'] 0.31 54.83870967741935
+
+Sparkling Lemon Water <- ['Lime Sparkling Water', 'Sparkling Water Grapefruit'] 0.35000000000000003 48.57142857142857
+
+Lime Sparkling Water <- ['Sparkling Lemon Water'] 1.06 25.471698113207548
+
+Banana <- ['Vanilla Almond Breeze Almond Milk'] 1.04 30.76923076923077
+
+Bag of Organic Bananas <- ['Organic Large Grade AA Brown Eggs'] 0.9900000000000001 29.292929292929294
+
+Bag of Organic Bananas <- ['Organic Bartlett Pear'] 0.8200000000000001 31.70731707317073
+
+Organic Strawberries <- ['Organic Bartlett Pear'] 0.8200000000000001 34.146341463414636
+
+Banana <- ['Baby Spinach'] 0.86 25.581395348837212
+
+Bag of Organic Bananas <- ['Organic Bell Pepper'] 0.72 25.0
+
+Organic Red Bell Pepper <- ['Organic Bell Pepper'] 0.72 34.72222222222222
+
+Banana <- ['Bartlett Pears'] 0.8500000000000001 30.58823529411765
+
+Banana <- ['Green Beans'] 0.8 30.0
+
+Bag of Organic Bananas <- ['Organic Large Brown Grade AA Cage Free Eggs'] 0.7799999999999999 34.61538461538461
+
+Bag of Organic Bananas <- ['Pineapple Chunks'] 0.8 28.749999999999996
+
+Organic Strawberries <- ['Pineapple Chunks'] 0.8 26.25
+
+Bag of Organic Bananas <- ['Frozen Organic Wild Blueberries'] 0.79 31.645569620253166
+
+Organic Baby Spinach <- ['Frozen Organic Wild Blueberries'] 0.79 27.848101265822784
+
+Organic Whole Strawberries <- ['Frozen Organic Wild Blueberries'] 0.79 27.848101265822784
+
+Bag of Organic Bananas <- ['100% Raw Coconut Water'] 0.91 27.472527472527474
+
+Bag of Organic Bananas <- ['Organic Baby Rainbow Carrots'] 0.72 27.77777777777778
+
+Banana <- ['Cherubs Heavenly Salad Tomatoes'] 0.8 27.500000000000004
+
+Banana <- ['Lightly Salted Baked Snap Pea Crisps'] 0.72 33.33333333333333
+
+Banana <- ['Shredded Mild Cheddar Cheese'] 0.66 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Broccoli Crowns'] 0.64 34.375
+
+Organic Strawberries <- ['Organic Broccoli Crowns'] 0.64 25.0
+
+Organic Baby Spinach <- ['Organic Broccoli Crowns'] 0.64 25.0
+
+Organic Baby Spinach <- ['Organic Shredded Carrots'] 0.6799999999999999 27.941176470588236
+
+Organic Baby Spinach <- ['Organic Jalapeno Pepper'] 0.59 25.423728813559322
+
+Organic Hass Avocado <- ['Organic Jalapeno Pepper'] 0.59 28.8135593220339
+
+Limes <- ['Organic Jalapeno Pepper'] 0.59 33.89830508474576
+
+Organic Garlic <- ['Organic Jalapeno Pepper'] 0.59 32.20338983050847
+
+Organic Cilantro <- ['Organic Jalapeno Pepper'] 0.59 27.11864406779661
+
+Banana <- ['Organic Extra Firm Tofu'] 0.7000000000000001 34.285714285714285
+
+Organic Baby Spinach <- ['Organic Extra Firm Tofu'] 0.7000000000000001 30.0
+
+Bag of Organic Bananas <- ['Organic Large Green Asparagus'] 0.63 33.33333333333333
+
+Organic Strawberries <- ['Organic Large Green Asparagus'] 0.63 26.984126984126984
+
+Bag of Organic Bananas <- ['Organic Leek'] 0.61 31.147540983606557
+
+Banana <- ['Total 0% Greek Yogurt'] 0.8099999999999999 27.160493827160494
+
+Banana <- ['Organic Reduced Fat Milk'] 0.7799999999999999 28.205128205128204
+
+Banana <- ['Total 0% Nonfat Greek Yogurt'] 0.7799999999999999 28.205128205128204
+
+Organic Strawberries <- ['Watermelon Chunks'] 0.76 28.947368421052634
+
+Banana <- ['Mango Chunks'] 0.6 28.333333333333332
+
+Banana <- ['Boneless Skinless Chicken Breast'] 0.73 27.397260273972602
+
+Banana <- ['Total Greek Strained Yogurt'] 0.76 32.89473684210527
+
+Large Lemon <- ['Shallot'] 0.6 25.0
+
+Organic Baby Spinach <- ['Organic Riced Cauliflower'] 0.75 28.000000000000004
+
+Banana <- ['Roasted Red Pepper Hummus'] 0.66 25.757575757575758
+
+Bag of Organic Bananas <- ['Sweet Onion'] 0.66 28.78787878787879
+
+Banana <- ['Romaine Lettuce'] 0.62 38.70967741935484
+
+Banana <- ['Shredded Mozzarella'] 0.6799999999999999 25.0
+
+Bag of Organic Bananas <- ['Organic Snipped Green Beans'] 0.5700000000000001 28.07017543859649
+
+Strawberries <- ['Blackberries'] 0.84 33.33333333333333
+
+Total 2% with Strawberry Lowfat Greek Strained Yogurt <- ['Total 2% Greek Strained Yogurt with Cherry 5.3 oz'] 0.6 31.666666666666664
+
+Bag of Organic Bananas <- ['Organic AppleApple'] 0.5599999999999999 30.357142857142854
+
+Bag of Organic Bananas <- ['Organic White Onions'] 0.61 27.86885245901639
+
+Bag of Organic Bananas <- ['Original Veggie Straws'] 0.5499999999999999 34.54545454545455
+
+Banana <- ['Original No Pulp 100% Florida Orange Juice'] 0.64 28.125
+
+Organic Baby Spinach <- ['Berry Medley'] 0.61 26.229508196721312
+
+Banana <- ['Original Nooks & Crannies English Muffins'] 0.6 35.0
+
+Banana <- ['YoKids Squeezers Organic Low-Fat Yogurt, Strawberry'] 0.59 27.11864406779661
+
+Bag of Organic Bananas <- ['Organic Hothouse Cucumbers'] 0.58 34.48275862068966
+
+Organic Strawberries <- ['Organic Hothouse Cucumbers'] 0.58 25.862068965517242
+
+Bag of Organic Bananas <- ['Organic Bread with 21 Whole Grains'] 0.64 34.375
+
+Banana <- ['Total 2% Lowfat Greek Strained Yogurt with Peach'] 0.61 36.0655737704918
+
+Total 2% with Strawberry Lowfat Greek Strained Yogurt <- ['Total 2% Lowfat Greek Strained Yogurt with Peach'] 0.61 37.704918032786885
+
+Total 2% Lowfat Greek Strained Yogurt with Peach <- ['Total 2% with Strawberry Lowfat Greek Strained Yogurt'] 0.8099999999999999 28.39506172839506
+
+Total 2% Greek Strained Yogurt with Cherry 5.3 oz <- ['Total 2% Lowfat Greek Strained Yogurt with Peach'] 0.61 26.229508196721312
+
+Total 2% Lowfat Greek Strained Yogurt with Peach <- ['Total 2% Greek Strained Yogurt with Cherry 5.3 oz'] 0.6 26.666666666666668
+
+Banana <- ['Organic Yams'] 0.5700000000000001 28.07017543859649
+
+Bag of Organic Bananas <- ['Organic Yellow Peaches'] 0.6 25.0
+
+Organic Strawberries <- ['Organic Yellow Peaches'] 0.6 36.666666666666664
+
+Banana <- ['Organic Large Brown Eggs'] 0.5499999999999999 38.18181818181819
+
+Organic Avocado <- ['Organic Large Brown Eggs'] 0.5499999999999999 38.18181818181819
+
+Organic Zucchini <- ['Globe Eggplant'] 0.49 34.69387755102041
+
+Banana <- ['Gala Apples'] 0.6799999999999999 44.11764705882353
+
+Banana <- ['Salted Butter'] 0.61 26.229508196721312
+
+Bag of Organic Bananas <- ['Organic Bosc Pear'] 0.6 25.0
+
+Organic Hass Avocado <- ['Organic Bosc Pear'] 0.6 26.666666666666668
+
+Banana <- ['Ezekiel 4:9 Bread Organic Sprouted Whole Grain'] 0.5599999999999999 25.0
+
+Organic Baby Spinach <- ['Ezekiel 4:9 Bread Organic Sprouted Whole Grain'] 0.5599999999999999 25.0
+
+Bag of Organic Bananas <- ['Organic Cripps Pink Apples'] 0.54 40.74074074074074
+
+Bag of Organic Bananas <- ['Organic Mexican Blend Finely Shredded Cheese'] 0.47000000000000003 29.78723404255319
+
+Organic Raspberries <- ['Organic Mexican Blend Finely Shredded Cheese'] 0.47000000000000003 25.53191489361702
+
+Sparkling Water Grapefruit <- ['Peach Pear Flavored Sparkling Water'] 0.67 31.343283582089555
+
+Banana <- ['Pretzel Crisps Original Deli Style Pretzel Crackers'] 0.51 25.49019607843137
+
+Bag of Organic Bananas <- ['Organic Milk'] 0.7000000000000001 25.71428571428571
+
+Banana <- ['Organic Butternut Squash'] 0.5599999999999999 25.0
+
+Organic Zucchini <- ['Organic Butternut Squash'] 0.5599999999999999 25.0
+
+Banana <- ['2% Reduced Fat DHA Omega-3 Reduced Fat Milk'] 0.54 27.77777777777778
+
+Bag of Organic Bananas <- ['Original Pure Creamy Almond Milk'] 0.52 30.76923076923077
+
+Bag of Organic Bananas <- ['Organic Thompson Seedless Raisins'] 0.41000000000000003 29.268292682926827
+
+Organic Strawberries <- ['Organic Thompson Seedless Raisins'] 0.41000000000000003 36.58536585365854
+
+Bag of Organic Bananas <- ['Organic Chicken Strips'] 0.47000000000000003 25.53191489361702
+
+Organic Strawberries <- ['Organic Chicken Strips'] 0.47000000000000003 25.53191489361702
+
+Bag of Organic Bananas <- ['Organic American Cheese Singles'] 0.48 31.25
+
+Organic Strawberries <- ['Organic American Cheese Singles'] 0.48 27.083333333333332
+
+Organic Baby Spinach <- ['Organic Bunch Beets'] 0.53 26.41509433962264
+
+Bag of Organic Bananas <- ['Super Spinach! Baby Spinach, Baby Bok Choy, Sweet Baby Kale'] 0.58 25.862068965517242
+
+Bag of Organic Bananas <- ['Organic Frozen Peas'] 0.53 26.41509433962264
+
+Bag of Organic Bananas <- ['Organic Creamy Peanut Butter'] 0.5599999999999999 26.785714285714285
+
+Banana <- ['Dressing, Jersey Sweet Onion, Calorie Free'] 0.5499999999999999 32.72727272727273
+
+Total 2% with Strawberry Lowfat Greek Strained Yogurt <- ['Total 2% All Natural Greek Strained Yogurt with Honey'] 0.53 26.41509433962264
+
+Banana <- ['Medium Navel Orange'] 0.58 29.310344827586203
+
+Banana <- ['Chicken & Maple Breakfast Sausage'] 0.51 25.49019607843137
+
+Bag of Organic Bananas <- ['Sea Salt Pita Chips'] 0.53 26.41509433962264
+
+Bag of Organic Bananas <- ['Organic Green Seedless Grapes'] 0.54 29.629629629629626
+
+Organic Strawberries <- ['Organic Green Seedless Grapes'] 0.54 38.88888888888889
+
+Banana <- ['Diced Tomatoes'] 0.44999999999999996 31.11111111111111
+
+Large Lemon <- ['Diced Tomatoes'] 0.44999999999999996 28.888888888888886
+
+Bag of Organic Bananas <- ['Organic Ketchup'] 0.43 27.906976744186046
+
+Organic Strawberries <- ['Organic Ketchup'] 0.43 25.581395348837212
+
+Bag of Organic Bananas <- ['Mini Original Babybel Cheese'] 0.54 25.925925925925924
+
+Organic Italian Parsley Bunch <- ['Organic Dill'] 0.5 30.0
+
+Banana <- ['Spinach'] 0.5700000000000001 29.82456140350877
+
+Bag of Organic Bananas <- ['Organic Uncured Sliced Black Forest Ham'] 0.42 28.57142857142857
+
+Banana <- ['Original Semisoft Cheese'] 0.42 26.190476190476193
+
+Large Lemon <- ['Organic Thyme'] 0.5700000000000001 26.31578947368421
+
+Bag of Organic Bananas <- ['Celery Hearts'] 0.41000000000000003 34.146341463414636
+
+Bag of Organic Bananas <- ['Air Chilled Organic Boneless Skinless Chicken Breasts'] 0.5 28.000000000000004
+
+Organic Strawberries <- ['Air Chilled Organic Boneless Skinless Chicken Breasts'] 0.5 26.0
+
+Bag of Organic Bananas <- ['Organic Unsalted Butter'] 0.48 35.41666666666667
+
+Bag of Organic Bananas <- ['Organic Chicken & Apple Sausage'] 0.44999999999999996 31.11111111111111
+
+Banana <- ['Lime'] 0.44 27.27272727272727
+
+Organic Red Onion <- ['Lime'] 0.44 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Cheese Frozen Pizza'] 0.44999999999999996 26.666666666666668
+
+Banana <- ['85% Lean Ground Beef'] 0.5 36.0
+
+Large Lemon <- ['85% Lean Ground Beef'] 0.5 32.0
+
+Banana <- ['Icelandic Style Skyr Blueberry Non-fat Yogurt'] 0.52 26.923076923076923
+
+Vanilla Skyr Nonfat Yogurt <- ['Icelandic Style Skyr Blueberry Non-fat Yogurt'] 0.52 25.0
+
+Banana <- ['Pita Chips Simply Naked'] 0.48 31.25
+
+Banana <- ['Chocolate Ice Cream'] 0.48 25.0
+
+Bag of Organic Bananas <- ['Milk, Organic, Vitamin D'] 0.5700000000000001 33.33333333333333
+
+Bag of Organic Bananas <- ['Organic 21 Grain Thin Sliced Bread'] 0.47000000000000003 29.78723404255319
+
+Organic Hass Avocado <- ['Organic 21 Grain Thin Sliced Bread'] 0.47000000000000003 29.78723404255319
+
+Banana <- ['Organic Old Fashioned Rolled Oats'] 0.44 29.545454545454547
+
+Banana <- ['Yellow Grape Tomatoes'] 0.38 44.73684210526316
+
+Organic Avocado <- ['Yellow Grape Tomatoes'] 0.38 44.73684210526316
+
+Bag of Organic Bananas <- ['Organic Raw Kombucha Gingerade'] 0.5599999999999999 25.0
+
+Bag of Organic Bananas <- ['Organic Whole Kernel Sweet Corn No Salt Added'] 0.38 34.21052631578947
+
+Organic Baby Spinach <- ['Organic Whole Kernel Sweet Corn No Salt Added'] 0.38 26.31578947368421
+
+Banana <- ['European Cucumber'] 0.5 40.0
+
+Banana <- ['2% Reduced Fat Organic Milk'] 0.43 27.906976744186046
+
+Banana <- ['Organic Brown Rice'] 0.44 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Brown Rice'] 0.44 31.818181818181817
+
+Organic Baby Spinach <- ['Organic Brown Rice'] 0.44 25.0
+
+Banana <- ['Non Fat Raspberry Yogurt'] 0.43 27.906976744186046
+
+Icelandic Style Skyr Blueberry Non-fat Yogurt <- ['Non Fat Raspberry Yogurt'] 0.43 37.2093023255814
+
+Non Fat Raspberry Yogurt <- ['Icelandic Style Skyr Blueberry Non-fat Yogurt'] 0.52 30.76923076923077
+
+Blueberry Yoghurt <- ['Strawberry Rhubarb Yoghurt'] 0.42 40.476190476190474
+
+Strawberry Rhubarb Yoghurt <- ['Blueberry Yoghurt'] 0.38999999999999996 43.58974358974359
+
+Banana <- ['Organic Fat Free Milk'] 0.54 25.925925925925924
+
+Organic Baby Spinach <- ['Corn Tortillas'] 0.47000000000000003 25.53191489361702
+
+Total 2% with Strawberry Lowfat Greek Strained Yogurt <- ['Total 2% Lowfat Greek Strained Yogurt With Blueberry'] 0.47000000000000003 34.04255319148936
+
+Total 2% Greek Strained Yogurt with Cherry 5.3 oz <- ['Total 2% Lowfat Greek Strained Yogurt With Blueberry'] 0.47000000000000003 34.04255319148936
+
+Total 2% Lowfat Greek Strained Yogurt With Blueberry <- ['Total 2% Greek Strained Yogurt with Cherry 5.3 oz'] 0.6 26.666666666666668
+
+Total 2% Lowfat Greek Strained Yogurt with Peach <- ['Total 2% Lowfat Greek Strained Yogurt With Blueberry'] 0.47000000000000003 27.659574468085108
+
+Banana <- ['Grade A Large White Eggs'] 0.5 38.0
+
+Large Lemon <- ['Organic Vanilla Extract'] 0.35000000000000003 25.71428571428571
+
+Banana <- ['Frozen Broccoli Florets'] 0.49 32.6530612244898
+
+Large Lemon <- ['Light Brown Sugar'] 0.49 26.53061224489796
+
+Banana <- ['Total 2% Lowfat Plain Greek Yogurt'] 0.49 28.57142857142857
+
+Banana <- ['Tomato Ketchup'] 0.49 26.53061224489796
+
+Bag of Organic Bananas <- ['Colby Cheese Sticks'] 0.4 30.0
+
+Banana <- ['Asparation/Broccolini/Baby Broccoli'] 0.5499999999999999 41.81818181818181
+
+Large Lemon <- ['Flat Parsley, Bunch'] 0.49 32.6530612244898
+
+Bag of Organic Bananas <- ['Organic Salted Butter'] 0.42 40.476190476190474
+
+Organic Strawberries <- ['Organic Salted Butter'] 0.42 28.57142857142857
+
+Strawberries <- ['Red Seedless Grapes'] 0.51 25.49019607843137
+
+Banana <- ['YoKids Blueberry & Strawberry/Vanilla Yogurt'] 0.4 30.0
+
+Blueberry Yoghurt <- ['Lemon Yogurt'] 0.33 27.27272727272727
+
+Strawberry Rhubarb Yoghurt <- ['Lemon Yogurt'] 0.33 30.303030303030305
+
+Bag of Organic Bananas <- ['Salted Tub of Butter'] 0.4 25.0
+
+Banana <- ['Chopped Spinach'] 0.42 42.857142857142854
+
+Banana <- ['Tomato Sauce'] 0.38 26.31578947368421
+
+Banana <- ['Mint'] 0.41000000000000003 29.268292682926827
+
+Banana <- ['Tomato Paste'] 0.38999999999999996 28.205128205128204
+
+Bag of Organic Bananas <- ['Creamy Almond Butter'] 0.5499999999999999 29.09090909090909
+
+Banana <- ['Total 2% All Natural Low Fat 2% Milkfat Greek Strained Yogurt'] 0.4 40.0
+
+Banana <- ['Cage Free Brown Eggs-Large, Grade A'] 0.43 25.581395348837212
+
+Organic Baby Spinach <- ['Organic Unsweetened Vanilla Almond Milk'] 0.4 32.5
+
+Banana <- ['Eggo Homestyle Waffles'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Plain Greek Whole Milk Yogurt'] 0.43 30.23255813953488
+
+Organic Strawberries <- ['Organic Plain Greek Whole Milk Yogurt'] 0.43 30.23255813953488
+
+Banana <- ['Marinara Pasta Sauce'] 0.42 28.57142857142857
+
+Banana <- ['Raisin Bran Cereal'] 0.43 25.581395348837212
+
+Banana <- ['XL Emerald White Seedless Grapes'] 0.48 27.083333333333332
+
+Banana <- ['Smoked Turkey Breast Slices'] 0.35000000000000003 45.714285714285715
+
+Bag of Organic Bananas <- ['Organic Whole Cashews'] 0.38999999999999996 33.33333333333333
+
+Organic Strawberries <- ['Organic Whole Cashews'] 0.38999999999999996 25.64102564102564
+
+Banana <- ['Almonds & Sea Salt in Dark Chocolate'] 0.4 32.5
+
+Banana <- ['Blood Oranges'] 0.38 26.31578947368421
+
+Banana <- ['Fat Free Strawberry Yogurt'] 0.35000000000000003 34.285714285714285
+
+Banana <- ['Red Potatoes'] 0.47000000000000003 27.659574468085108
+
+Bag of Organic Bananas <- ['Oven Roasted Turkey'] 0.35000000000000003 37.142857142857146
+
+Organic Strawberries <- ['Oven Roasted Turkey'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Organic Sunday Bacon'] 0.38 26.31578947368421
+
+Bag of Organic Bananas <- ['Organic Stringles Mozzarella String Cheese'] 0.31 32.25806451612903
+
+Organic Strawberries <- ['Organic Stringles Mozzarella String Cheese'] 0.31 29.03225806451613
+
+Bag of Organic Bananas <- ['Organic Frozen Mango Chunks'] 0.35000000000000003 34.285714285714285
+
+Organic Baby Spinach <- ['Organic Frozen Mango Chunks'] 0.35000000000000003 28.57142857142857
+
+Banana <- ['Organic Spaghetti Squash'] 0.37 29.72972972972973
+
+Bag of Organic Bananas <- ['Organic Romaine Leaf'] 0.35000000000000003 25.71428571428571
+
+Organic Strawberries <- ['Organic Romaine Leaf'] 0.35000000000000003 25.71428571428571
+
+Banana <- ['Vanilla Unsweetened Almond Milk'] 0.38999999999999996 25.64102564102564
+
+Banana <- ['Pesto Tortellini  Bowls'] 0.35000000000000003 34.285714285714285
+
+Banana <- ['Organic Strawberry Fruit Spread'] 0.36 36.11111111111111
+
+Bag of Organic Bananas <- ['Red Leaf Lettuce'] 0.38999999999999996 25.64102564102564
+
+Banana <- ['Trilogy Kombucha Drink'] 0.47000000000000003 25.53191489361702
+
+Banana <- ['Organic Strawberry Smoothie'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Kids Organic Chocolate Chip ZBars'] 0.33999999999999997 26.47058823529412
+
+Large Lemon <- ['Serrano Chile Peppers'] 0.36 25.0
+
+Limes <- ['Serrano Chile Peppers'] 0.36 33.33333333333333
+
+Banana <- ['Total 0% Raspberry Yogurt'] 0.36 25.0
+
+Fat Free Strawberry Yogurt <- ['Total 0% Raspberry Yogurt'] 0.36 30.555555555555557
+
+Total 0% Raspberry Yogurt <- ['Fat Free Strawberry Yogurt'] 0.35000000000000003 31.428571428571427
+
+Banana <- ['Orange Juice'] 0.48 31.25
+
+Banana <- ['Italian Extra Virgin Olive Oil'] 0.41000000000000003 34.146341463414636
+
+Large Lemon <- ['Italian Extra Virgin Olive Oil'] 0.41000000000000003 26.82926829268293
+
+Organic Avocado <- ['Italian Extra Virgin Olive Oil'] 0.41000000000000003 26.82926829268293
+
+Banana <- ['Green Tea With Ginseng and Honey'] 0.36 25.0
+
+Banana <- ['Sweet Potato Yam'] 0.33999999999999997 41.17647058823529
+
+Banana <- ['Air Chilled Breaded Chicken Breast Nuggets'] 0.33 33.33333333333333
+
+Organic Strawberries <- ['Air Chilled Breaded Chicken Breast Nuggets'] 0.33 36.36363636363637
+
+Banana <- ['Baked Aged White Cheddar Rice and Corn Puffs'] 0.36 33.33333333333333
+
+Banana <- ['No Pulp Calcium & Vitamin D Pure Orange Juice'] 0.37 35.13513513513514
+
+Bag of Organic Bananas <- ['Organic Iceberg Lettuce'] 0.38999999999999996 28.205128205128204
+
+Organic Strawberries <- ['Naturals Chicken Nuggets'] 0.33 27.27272727272727
+
+Banana <- ['Total 0% Nonfat Plain Greek Yogurt'] 0.4 37.5
+
+Bag of Organic Bananas <- ['I Heart Baby Kale'] 0.36 25.0
+
+Banana <- ['Chopped Walnuts'] 0.35000000000000003 31.428571428571427
+
+Organic Strawberries <- ['Chopped Walnuts'] 0.35000000000000003 25.71428571428571
+
+Organic Baby Spinach <- ['Chopped Walnuts'] 0.35000000000000003 25.71428571428571
+
+Bag of Organic Bananas <- ['Crackers Cheddar Bunnies Snack Packs'] 0.3 36.666666666666664
+
+Organic Strawberries <- ['Crackers Cheddar Bunnies Snack Packs'] 0.3 33.33333333333333
+
+Bag of Organic Bananas <- ['Vanilla Pure Almond Milk'] 0.35000000000000003 25.71428571428571
+
+Bag of Organic Bananas <- ['Organic Spinach Bunch'] 0.38999999999999996 25.64102564102564
+
+Banana <- ['Mini Cucumbers'] 0.33 30.303030303030305
+
+Bag of Organic Bananas <- ['Organic Edamame'] 0.33 27.27272727272727
+
+Banana <- ['Original Rice Pilaf Mix'] 0.33999999999999997 32.35294117647059
+
+Banana <- ['Spaghetti'] 0.37 37.83783783783784
+
+Organic Baby Spinach <- ['Organic Baby Kale'] 0.37 29.72972972972973
+
+Bag of Organic Bananas <- ['100 Calorie  Per Bag Popcorn'] 0.36 27.77777777777778
+
+Bag of Organic Bananas <- ['Organic Turkey Bacon'] 0.33999999999999997 32.35294117647059
+
+Organic Baby Spinach <- ['Fresh Mozzarella Ball'] 0.38999999999999996 28.205128205128204
+
+Banana <- ['Grade A Large Eggs Cage Free Omega 3'] 0.33 36.36363636363637
+
+Banana <- ['Organic Greek Whole Milk Blended Vanilla Bean Yogurt'] 0.3 30.0
+
+Bag of Organic Bananas <- ['Organic Greek Whole Milk Blended Vanilla Bean Yogurt'] 0.3 26.666666666666668
+
+Organic Strawberries <- ['Organic Greek Whole Milk Blended Vanilla Bean Yogurt'] 0.3 30.0
+
+Banana <- ['Organic Mixed Vegetables'] 0.31 32.25806451612903
+
+Organic Whole String Cheese <- ['Organic Mixed Vegetables'] 0.31 25.806451612903224
+
+Banana <- ['Lemon Hummus'] 0.38 34.21052631578947
+
+Organic Avocado <- ['Lemon Hummus'] 0.38 26.31578947368421
+
+Banana <- ['Celery'] 0.31 29.03225806451613
+
+Banana <- ['Kiwi'] 0.32 34.375
+
+Organic Avocado <- ['Kiwi'] 0.32 25.0
+
+Strawberries <- ['Kiwi'] 0.32 25.0
+
+Banana <- ['Red Mango'] 0.3 26.666666666666668
+
+Strawberries <- ['Red Mango'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Good Seed Bread'] 0.36 30.555555555555557
+
+Bag of Organic Bananas <- ['Organic Shredded Mozzarella'] 0.33999999999999997 41.17647058823529
+
+Organic Strawberries <- ['Organic Shredded Mozzarella'] 0.33999999999999997 32.35294117647059
+
+Banana <- ['Skim Milk'] 0.31 29.03225806451613
+
+Banana <- ['Reduced Fat Milk 100% Lactose Free'] 0.4 40.0
+
+Banana <- ['Super Soft Taco Flour Tortillas'] 0.3 26.666666666666668
+
+Banana <- ['Whole Wheat Bread'] 0.32 31.25
+
+Banana <- ['Organic Extra Large Grade AA Brown Eggs'] 0.44999999999999996 26.666666666666668
+
+Organic Strawberries <- ['Cinnamon Rolls with Icing'] 0.33 30.303030303030305
+
+Banana <- ['Penne Rigate'] 0.32 31.25
+
+Banana <- ['Apple Juice'] 0.3 26.666666666666668
+
+Organic Strawberries <- ['Organic Original Hommus'] 0.31 25.806451612903224
+
+Bag of Organic Bananas <- ['Organic Small Curd Cottage Cheese'] 0.3 30.0
+
+Organic Strawberries <- ['Organic Small Curd Cottage Cheese'] 0.3 36.666666666666664
+
+Organic Raspberries <- ['Organic Small Curd Cottage Cheese'] 0.3 26.666666666666668
+
+Banana <- ['Original Rotisserie Chicken'] 0.33 39.39393939393939
+
+Organic Avocado <- ['Original Rotisserie Chicken'] 0.33 39.39393939393939
+
+Banana <- ['Whole Milk Plain Yogurt'] 0.38999999999999996 25.64102564102564
+
+Organic Whole Milk <- ['Whole Milk Plain Yogurt'] 0.38999999999999996 41.02564102564102
+
+Banana <- ['Organic Chicken Broth'] 0.32 25.0
+
+Organic Zucchini <- ['Organic Chicken Broth'] 0.32 25.0
+
+Banana <- ['Raspberry Yoghurt'] 0.3 26.666666666666668
+
+Blueberry Yoghurt <- ['Raspberry Yoghurt'] 0.3 33.33333333333333
+
+Raspberry Yoghurt <- ['Blueberry Yoghurt'] 0.38999999999999996 25.64102564102564
+
+Lemon Yogurt <- ['Raspberry Yoghurt'] 0.3 30.0
+
+Raspberry Yoghurt <- ['Lemon Yogurt'] 0.33 27.27272727272727
+
+Bag of Organic Bananas <- ['Organic Roasted Sliced Chicken Breast'] 0.32 25.0
+
+Organic Strawberries <- ['Organic Roasted Sliced Chicken Breast'] 0.32 28.125
+
+Bag of Organic Bananas <- ['Sea Salt Potato Chips'] 0.31 25.806451612903224
+
+Organic Strawberries <- ['Sea Salt Potato Chips'] 0.31 25.806451612903224
+
+Vanilla Skyr Nonfat Yogurt <- ['Non Fat Acai & Mixed Berries Yogurt'] 0.33 36.36363636363637
+
+Icelandic Style Skyr Blueberry Non-fat Yogurt <- ['Non Fat Acai & Mixed Berries Yogurt'] 0.33 39.39393939393939
+
+Non Fat Acai & Mixed Berries Yogurt <- ['Icelandic Style Skyr Blueberry Non-fat Yogurt'] 0.52 25.0
+
+Non Fat Raspberry Yogurt <- ['Non Fat Acai & Mixed Berries Yogurt'] 0.33 36.36363636363637
+
+Non Fat Acai & Mixed Berries Yogurt <- ['Non Fat Raspberry Yogurt'] 0.43 27.906976744186046
+
+Bag of Organic Bananas <- ['1% Lowfat Milk'] 0.33 27.27272727272727
+
+Banana <- ['Root Beer'] 0.33999999999999997 26.47058823529412
+
+Bag of Organic Bananas <- ['Organic Macaroni Shells & Real Aged Cheddar'] 0.32 28.125
+
+Organic Strawberries <- ['Organic Green Beans'] 0.36 27.77777777777778
+
+Bag of Organic Bananas <- ['Yogurt, Strained Low-Fat, Coconut'] 0.31 35.483870967741936
+
+Organic Baby Spinach <- ['Yogurt, Strained Low-Fat, Coconut'] 0.31 25.806451612903224
+
+Banana <- ['Organic Butterhead (Boston, Butter, Bibb) Lettuce'] 0.35000000000000003 25.71428571428571
+
+Banana <- ['Bicolor Sweet Corn'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Bicolor Sweet Corn'] 0.3 40.0
+
+Large Lemon <- ['Bicolor Sweet Corn'] 0.3 33.33333333333333
+
+Bag of Organic Bananas <- ['Organic Red Potato'] 0.32 25.0
+
+Organic Lemon <- ['Organic Red Potato'] 0.32 25.0
+
+Grapefruit Sparkling Water <- ['Lemon Sparkling Water'] 0.35000000000000003 28.57142857142857
+
+Banana <- ['Shredded Hash Browns'] 0.3 26.666666666666668
+
+Banana <- ['Americone Dream® Ice Cream'] 0.31 35.483870967741936
+
+Banana <- ['Almond Breeze Original Almond Milk'] 0.36 30.555555555555557
+
+Banana <- ['Sinfully Sweet Campari Tomatoes'] 0.35000000000000003 28.57142857142857
+
+Banana <- ['Organic Lowfat 1% Milk'] 0.33999999999999997 35.294117647058826
+
+Bag of Organic Bananas <- ['Alpine Spring Water'] 0.36 25.0
+
+Bag of Organic Bananas <- ['Dha Omega 3 Reduced Fat 2% Milk'] 0.3 26.666666666666668
+
+Bag of Organic Bananas <- ['Organic Lemonade'] 0.3 30.0
+
+Nonfat Icelandic Style Strawberry Yogurt <- ['Icelandic Style Skyr Blueberry Non-fat Yogurt'] 0.52 25.0
+
+Fat Free Blueberry Yogurt <- ['Fat Free Strawberry Yogurt'] 0.35000000000000003 31.428571428571427
+
+Organic Strawberries <- ['Baby Cucumbers'] 0.42 26.190476190476193
+
+Bag of Organic Bananas <- ['Coconut Water'] 0.31 25.806451612903224
+
+Total 0% Blueberry Acai Greek Yogurt <- ['Total 0% Raspberry Yogurt'] 0.36 27.77777777777778
+
+Clementines <- ['0% Greek Strained Yogurt'] 0.4 30.0
+
+Bag of Organic Bananas <- ['Packaged Grape Tomatoes'] 0.38999999999999996 28.205128205128204
+
+Banana <- ['Vitamin D Whole Milk'] 0.32 25.0
+
+Bag of Organic Bananas <- ['Smartwater'] 0.3 30.0
+
+Bag of Organic Bananas <- ['Frozen Organic Blueberries'] 0.35000000000000003 31.428571428571427
+
+Organic Strawberries <- ['Frozen Organic Blueberries'] 0.35000000000000003 25.71428571428571
+
+Organic Baby Spinach <- ['Frozen Organic Blueberries'] 0.35000000000000003 28.57142857142857
+
+Bag of Organic Bananas <- ['Apples'] 0.3 33.33333333333333
+
+Clementines <- ['Apples'] 0.3 36.666666666666664
+
+Bag of Organic Bananas <- ['Organic Fuji Apples'] 0.3 50.0
+
+Organic Strawberries <- ['Organic Fuji Apples'] 0.3 26.666666666666668
+
